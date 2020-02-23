@@ -2,5 +2,5 @@
   url: /
 - name: Wiki
   url: https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/wiki
-#- name: Suggested papers
-#  url: /suggested_reading.html
+- name: Suggested papers
+  url: /suggested_reading.html
