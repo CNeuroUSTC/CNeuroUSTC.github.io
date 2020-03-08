@@ -1,3 +1,21 @@
+
+- presenter: Jing HUO
+  date: 2020/03/12, 10:00am
+  paper: "Motor Cortical Visuomotor Feedback Activity Is Initially Isolated from Downstream Targets in Output-Null Neural State Space Dimensions"
+  url: "https://www.sciencedirect.com/science/article/pii/S0896627317304610"
+  pdf: "None"
+  authors: "Sergey D. Stavisky, Jonathan C. Kao, Stephen I. Ryu, Krishna V. Shenoy"
+  location: DingTalk APP
+
+- presenter: Yuxiang WU
+  date: 2020/03/19, 10:00am
+  paper: "Learning to Learn with Feedback and Local Plasticity"
+  url: "https://openreview.net/forum?id=HklfNQFL8H"
+  pdf: "None"
+  authors: "Jack Lindsey"
+  location: DingTalk APP
+
+
 - presenter: Pinjie Li
   date: 2020/03/05, 10:00am
   paper: "A neural basis of probabilistic computation in visual cortex"
@@ -7,7 +25,16 @@
   location: DingTalk APP
 
 
-- presenter: Yuan Wang
+- presenter: Pinjie LI
+  date: 2020/03/05, 10:00am
+  paper: "A neural basis of probabilistic computation in visual cortex"
+  url: "https://www.nature.com/articles/s41593-019-0554-5.pdf"
+  pdf: "None"
+  authors: "Edgar Y. Walker, R. James Cotton, Wei Ji Ma, Andreas S. Tolias"
+  location: DingTalk APP
+
+
+- presenter: Yuan WANG
   date: 2020/02/26, 7:30pm
   paper: "Single-trial neural dynamics are dominated by richly varied movements"
   url: "https://www.nature.com/articles/s41593-019-0502-4"
@@ -15,7 +42,7 @@
   authors: "Musall, Matthew T. Kaufman, Ashley L. Juavinett, Steven Gluf, Anne K. Churchland"
   location: DingTalk APP
 
-- presenter: Tianqi Xu
+- presenter: Tianqi XU
   date: 2020/02/19
   paper: "Cortical pattern generation during dexterous movement is input-driven"
   url: "https://www.nature.com/articles/s41586-019-1869-9"
