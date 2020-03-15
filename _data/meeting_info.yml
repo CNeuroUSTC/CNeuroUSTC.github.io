@@ -1,12 +1,3 @@
-
-- presenter: Jing HUO
-  date: 2020/03/12, 10:00am
-  paper: "Motor Cortical Visuomotor Feedback Activity Is Initially Isolated from Downstream Targets in Output-Null Neural State Space Dimensions"
-  url: "https://www.sciencedirect.com/science/article/pii/S0896627317304610"
-  pdf: "None"
-  authors: "Sergey D. Stavisky, Jonathan C. Kao, Stephen I. Ryu, Krishna V. Shenoy"
-  location: DingTalk APP
-
 - presenter: Yuxiang WU
   date: 2020/03/19, 10:00am
   paper: "Learning to Learn with Feedback and Local Plasticity"
@@ -15,6 +6,13 @@
   authors: "Jack Lindsey"
   location: DingTalk APP
 
+- presenter: Jing HUO
+  date: 2020/03/12, 10:00am
+  paper: "Motor Cortical Visuomotor Feedback Activity Is Initially Isolated from Downstream Targets in Output-Null Neural State Space Dimensions"
+  url: "https://www.sciencedirect.com/science/article/pii/S0896627317304610"
+  pdf: "None"
+  authors: "Sergey D. Stavisky, Jonathan C. Kao, Stephen I. Ryu, Krishna V. Shenoy"
+  location: DingTalk APP
 
 - presenter: Pinjie LI
   date: 2020/03/05, 10:00am
