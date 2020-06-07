@@ -1,10 +1,3 @@
-- presenter: Yuxiang WU
-  date: 2020/06/11, 10:00am
-  paper: "Towards artificial general intelligence with hybrid Tianjic chip architecture"
-  url: "https://www.nature.com/articles/s41586-019-1424-8"
-  pdf: "None"
-  authors: "Jing Pei, Lei Deng, Sen Song, Mingguo Zhao, Youhui Zhang, Shuang Wu, Guanrui Wang, Zhe Zou, Zhenzhi Wu, Wei He, Feng Chen, Ning Deng, Si Wu, Yu Wang, Yujie Wu, Zheyu Yang, Cheng Ma, Guoqi Li, Wentao Han, Huanglong Li, Huaqiang Wu, Rong Zhao, Yuan Xie, Luping Shi"
-  location: DingTalk APP
   
 - presenter: Tianqi XU 
   date: 2020/06/04, 10:00am
@@ -12,7 +5,7 @@
   url: "https://www.cell.com/cell/fulltext/S0092-8674(20)30496-7#secsectitle0035"
   pdf: "None"
   authors: "Michael S. Beauchamp, Denise Oswalt, Ping Sun, Brett L. Foster, John F. Magnotti, Soroush Niketeghad, Nader Pouratian, William H. Bosking, Daniel Yoshor"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Ikrma AMAD 
   date: 2020/05/28, 10:00am
@@ -20,7 +13,7 @@
   url: "https://elifesciences.org/articles/54937"
   pdf: "None"
   authors: "Paride Antinucci, Adna Dumitrescu, Charlotte Deleuze, Holly J Morley, Kristie Leung, Tom Hagley, Fumi Kubo, Herwig Baier, Isaac H Bianco"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Xiangyu ZHANG
   date: 2020/05/21, 10:00am
@@ -28,8 +21,7 @@
   url: "https://www.sciencedirect.com/science/article/pii/S089662731930532X"
   pdf: "None"
   authors: "Yu Xin, Lin Zhong, Yuan Zhang, Taotao Zhou, Jingwei Pan, Ning-long Xu"
-  location: DingTalk APP
-
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Yuming CHAI 
   date: 2020/05/14, 10:00am
@@ -37,15 +29,15 @@
   url: "https://science.sciencemag.org/content/367/6482/1131.full"
   pdf: "None"
   authors: "Alex P. Vaz, John H. Wittig, Sara K. Inati, Kareem A. Zaghloul"
-  location: DingTalk APP
-
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
+  
 - presenter: Chengtian LANG (Undergraduate Student)
   date: 2020/05/07, 10:00am
   paper: "Automatically tracking neurons in a moving and deforming brain"
   url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005517"
   pdf: "None"
   authors: "Jeffrey P. Nguyen, Ashley N. Linder, George S. Plummer, Joshua W. Shaevitz, Andrew M. Leifer"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Kexin QI
   date: 2020/04/30, 10:00am
@@ -53,7 +45,7 @@
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0960982219314654"
   pdf: "None"
   authors: "Robert Evan Johnson, Scott Linderman, Thomas Panier, Caroline Lei Wee, Erin Song, Kristian Joseph Herrera, Andrew Miller, Florian Engert"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Mayibaier PULATI
   date: 2020/04/23, 10:00am
@@ -61,7 +53,7 @@
   url: "https://science.sciencemag.org/content/368/6486/89"
   pdf: "None"
   authors: "Nejc Dolensek, Daniel A Gehrlach, Alexandra S Klein, Nadine Gogolla"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Daguang LI
   date: 2020/04/16, 10:00am
@@ -69,7 +61,7 @@
   url: "https://www.nature.com/articles/s41586-019-1346-5"
   pdf: "None"
   authors: "Carsen Stringer, Marius Pachitariu, Nicholas Steinmetz, Matteo Carandini, Kenneth D. Harris"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
   
 - presenter: Bingzhen ZHAO
   date: 2020/04/09, 10:00am
@@ -79,7 +71,7 @@
   authors: "Johannes Felsenberg, Pedro F. Jacob, Thomas Walker, Oliver Barnstedt, Amelia J. Edmondson-Stait,
             Markus W. Pleijzier, Nils Otto, Philipp Schlegel, Nadiya Sharifi, Emmanuel Perisse, Carlas S. Smith,
             J. Scott Lauritzen, Marta Costa, Gregory S.X.E. Jefferis, Davi D. Bock, and Scott Waddell"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Jingyuan JI
   date: 2020/04/02, 10:00am
@@ -87,7 +79,7 @@
   url: "https://www.nature.com/articles/s41593-020-0607-9"
   pdf: "None"
   authors: "Claire Eschbach, Akira Fushiki, Michael Winding, Casey M. Schneider-Mizell, Mei Shao, Rebecca Arruda, Katharina Eichler, Javier Valdes-Aleman, Tomoko Ohyama, Andreas S. Thum, Bertram Gerber, Richard D. Fetter, James W. Truman, Ashok Litwin-Kumar, Albert Cardona, Marta Zlatic"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Yubin WU
   date: 2020/03/26, 10:00am
@@ -95,7 +87,7 @@
   url: "https://www.nature.com/articles/s41593-019-0533-x"
   pdf: "None"
   authors: "Adam J. Calhoun, Jonathan W. Pillow, Mala Murthy"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Yuxiang WU
   date: 2020/03/19, 10:00am
@@ -103,7 +95,7 @@
   url: "https://openreview.net/forum?id=HklfNQFL8H"
   pdf: "None"
   authors: "Jack Lindsey"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Jing HUO
   date: 2020/03/12, 10:00am
@@ -111,7 +103,7 @@
   url: "https://www.sciencedirect.com/science/article/pii/S0896627317304610"
   pdf: "None"
   authors: "Sergey D. Stavisky, Jonathan C. Kao, Stephen I. Ryu, Krishna V. Shenoy"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Pinjie LI
   date: 2020/03/05, 10:00am
@@ -119,7 +111,7 @@
   url: "https://www.nature.com/articles/s41593-019-0554-5.pdf"
   pdf: "None"
   authors: "Edgar Y. Walker, R. James Cotton, Wei Ji Ma, Andreas S. Tolias"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 
 - presenter: Yuan WANG
@@ -128,7 +120,7 @@
   url: "https://www.nature.com/articles/s41593-019-0502-4"
   pdf: "None"
   authors: "Musall, Matthew T. Kaufman, Ashley L. Juavinett, Steven Gluf, Anne K. Churchland"
-  location: DingTalk APP
+  location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Tianqi XU
   date: 2020/02/19
