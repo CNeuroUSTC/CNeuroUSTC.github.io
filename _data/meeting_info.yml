@@ -1,5 +1,13 @@
+- presenter: Zezhen WANG
+  date: 2020/11/27, 4:00pm
+  paper: "Coarse-grained embeddings of time series:random walks, Gaussian random processes,and deterministic chaos"
+  url: "http://www.medicine.mcgill.ca/physio/glasslab/pub_pdf/coarse-grained_1993.pdf"
+  pdf: "None"
+  authors: "Daniel T. Kaplan and Leon Glass "
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">uncertain</a>
+
 - presenter: Yuxiang WU
-  date: 2020/11/20, 4:00pm
+  date: 2020/11/27, 3:00pm
   paper: "Deep Learning without Weight Transport"
   url: "https://arxiv.org/abs/1904.05391"
   pdf: "None"
@@ -7,7 +15,7 @@
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">uncertain</a>
 
 - presenter: Bingzhen ZHAO
-  date: 2020/11/13, 4:00pm
+  date: 2020/11/20, 4:00pm
   paper: "Memory formation in the absence of experience"
   url: "https://www.nature.com/articles/s41593-019-0389-0"
   pdf: "None"
