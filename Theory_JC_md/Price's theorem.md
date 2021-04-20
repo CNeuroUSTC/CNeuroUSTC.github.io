@@ -1,8 +1,7 @@
-<link rel="stylesheet" type="Theory_JC_md/css" href="auto-number-title.css" />
 
 # Price’s theorem </br>
 两个联合正态分布的随机变量(x,y)</br>
-联合概率密度 $f(x,y)$，方差 $\mu=<x,y>-<x><y>$，给定任意函数 $g(x,y)$</br>
+联合概率密度 $f(x,y)$，方差 $$\mu=<x,y>-<x><y>$$，给定任意函数 $g(x,y)$</br>
 期望 $I=E[g(x,y)]=\int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}g(x,y)f(x,y)\text{d}x\text{d}y$</br>
 上述积分是方差$\mu$和联合概率密度$f(x,y)$中四个参数的函数，若满足$lim_{(x,y)→∞} g(x,y)f(x,y)=0$，则</br>
 $\frac{∂^n I(μ)}{∂μ^n}=\int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}\frac{∂^{2n} g(x,y)}{∂x^n ∂y^n} f(x,y)\text{d}x\text{d}y)=E[\frac{∂^{2n} g(x,y)}{∂x^n ∂y^n }]$</br>
