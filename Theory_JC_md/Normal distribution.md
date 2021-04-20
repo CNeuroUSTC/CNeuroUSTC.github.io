@@ -1,4 +1,4 @@
-#正态分布
+# 正态分布
 ## 1. 一元正态分布 $x\in N(\mu,\sigma^2)$
 $$p(x)=\frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}$$
 
