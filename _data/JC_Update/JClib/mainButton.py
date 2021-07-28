@@ -266,6 +266,8 @@ class mainButton(QMainWindow, Ui_MainWindow):
         self.datetime = self.date + ', ' + self.time
         self.show_msg('Datetime:'+self.datetime)
 
+        self.title = 'WorkReport'
+
         self.location = self.place_3.toPlainText()
         self.show_msg('Place:'+self.location)
         self.Presenter = self.Presenter_3.toPlainText()
@@ -381,6 +383,9 @@ class mainButton(QMainWindow, Ui_MainWindow):
             self.title_1.setPlainText(self.title)  #输出标题到title_1
             self.show_msg("文章标题:" + self.title)
 
+            self.authors = delbracket(bib2dic(doitext)['author'])
+            self.show_msg("作者："+self.authors)
+
             self.URLLink = delbracket(bib2dic(doitext)['url'])  #
             self.show_msg("文章URL:" + self.URLLink)
             self.URL_link_1.setPlainText(self.URLLink)   #输出URLLink到URL_link_1
@@ -398,6 +403,9 @@ class mainButton(QMainWindow, Ui_MainWindow):
             self.title = delbracket(bib2dic(doitext)['title'])
             self.title_2.setPlainText(self.title)  # 输出标题到title_1
             self.show_msg("文章标题:" + self.title)
+
+            self.authors = delbracket(bib2dic(doitext)['author'])
+            self.show_msg("作者：" + self.authors)
 
             self.URLLink = delbracket(bib2dic(doitext)['url'])  #
             self.show_msg("文章URL:" + self.URLLink)
@@ -547,11 +555,11 @@ class mainButton(QMainWindow, Ui_MainWindow):
         self.text_paper_Browser_3.setPlainText('')
         #清除变量
         self.Presenter = ''
-        self.title = ''
-        self.authors = ''
-        self.URLLink = ''
-        self.rawPDF = ''
-        self.PDFLink = ''
+        self.title = 'None'
+        self.authors = 'None'
+        self.URLLink = 'None'
+        self.rawPDF = 'None'
+        self.PDFLink = 'None'
         self.date = ''
         self.time = ''
         self.datetime = ''
