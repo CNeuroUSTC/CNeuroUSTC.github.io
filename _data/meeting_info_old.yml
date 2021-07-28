@@ -1,20 +1,26 @@
+- presenter: Daguang Li :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_md/2_0_2_Daguang Li.md" target="_blank">Summary</a>
+  date: 2021/07/23 19:00
+  paper: "paper"
+  url: "https://www.nature.com/articles/s41593-020-0607-9"
+  pdf: "https://www.nature.com/articles/s41593-020-0607-9"
+  authors: "www.com"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329A</a>
+
 - presenter: Chen Shen
   date: 2021/7/23, 10:00am
   paper: "Simultaneous Denoising, Deconvolution, and Demixing of Calcium Imaging Data"
   url: "https://linkinghub.elsevier.com/retrieve/pii/S0896627315010843"
-  pdf:  "https://www.jianguoyun.com/p/DbebRMcQuYjfBxiTxIME "
+  pdf: "https://www.jianguoyun.com/p/DbebRMcQuYjfBxiTxIME "
   authors: "Pnevmatikakis etc."
-  location: "<a href=\"https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2\"\
-    >208</a>"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
 - presenter: Pengcen Jiang & Xuanyu Shen
   date: 2021/7/21, 14:00pm
   paper: "Dynamic Mode Decomposition: Data-Driven Modeling of Complex Systems"
   url: "http://epubs.siam.org/doi/book/10.1137/1.9781611974508"
-  pdf: "https://www.jianguoyun.com/p/DUNSE2kQuYjfBxjww4ME" 
+  pdf: "https://www.jianguoyun.com/p/DUNSE2kQuYjfBxjww4ME"
   authors: "Kutz etc."
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
-
 
 - presenter: Runhui Li
   date: 2021/7/9, 10:00am
@@ -40,7 +46,7 @@
   authors: "Benjamin Lindner, Brent Doiron, and André Longtin"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
-- presenter: Rongkang Xiong & PinJie Li 
+- presenter: Rongkang Xiong & PinJie Li
   date: 2021/6/22, 19:00pm
   paper: "The geometry of information coding in correlated neural populations"
   url: "https://hal.archives-ouvertes.fr/hal-03049357"
@@ -95,7 +101,7 @@
   pdf: "None"
   authors: "Alexandra Libby & Timothy J. Buschman"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
-  
+
 - presenter: ZeZhen Wang :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_md/528-ZeZhenWang.md" target="_blank">Summary</a>
   date: 2021/5/28, 10:00am
   paper: "Computation Through Neural Population Dynamics"
@@ -104,7 +110,7 @@
   authors: "Saurabh Vyas, Matthew D. Golub, David Sussillo, and Krishna V. Shenoy"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
-- presenter: XiangyuZhang 
+- presenter: XiangyuZhang
   date: 2021/5/28, 11:00am
   paper: "WorkReport"
   url: "None"
@@ -120,8 +126,7 @@
   authors: "Wen-Hao Zhang, Si Wu, Krešimir Josić,  View ORCID ProfileBrent Doiron"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
-
-- presenter: MengWang 
+- presenter: MengWang
   date: 2021/5/21, 11:00am
   paper: "WorkReport"
   url: "None"
@@ -177,7 +182,6 @@
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">531</a>
 
-
 - presenter: Jinyuan Ji :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_md/430-JinyuanJi.md" target="_blank">Summary</a>
   date: 2021/4/30, 10:00am
   paper: "A virtual reality system to analyze neural activity and behavior in adult zebrafish"
@@ -202,7 +206,7 @@
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
-- presenter: Jing Huo 
+- presenter: Jing Huo
   date: 2021/4/23, 11:00am
   paper: "Work Report"
   url: "None"
@@ -306,14 +310,13 @@
   authors: "Carl Doersch"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
-- presenter: Yuming Chai 
-  date: 2021/3/19, 10:00am 
-  paper: "The neuropeptide Pth2 dynamically senses others via mechanosensation" 
-  url: "https://www.nature.com/articles/s41586-020-2988-z" 
-  pdf: "None" 
-  authors: "Lukas Anneser, Ivan C. Alcantara, Anja Gemmer, Kristina Mirkes, Soojin Ryu & Erin M. Schuman" 
-  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a> 
-  
+- presenter: Yuming Chai
+  date: 2021/3/19, 10:00am
+  paper: "The neuropeptide Pth2 dynamically senses others via mechanosensation"
+  url: "https://www.nature.com/articles/s41586-020-2988-z"
+  pdf: "None"
+  authors: "Lukas Anneser, Ivan C. Alcantara, Anja Gemmer, Kristina Mirkes, Soojin Ryu & Erin M. Schuman"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
 - presenter: Rongkang Xiong, Meng Wang, Pengcen Jiang
   date: 2020/12/31, 7:00pm
@@ -370,7 +373,6 @@
   pdf: "None"
   authors: "Florian Bilz, Bart R.H. Geurten, Clare E. Hancock, Annekathrin Widmann, Andre ́ Fiala"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">531</a>
-
 
 - presenter: Yuxiang Wu
   date: 2020/12/10, 6:00pm
@@ -452,7 +454,6 @@
   authors: "Saurabh Vyas, Matthew D. Golub, David Sussillo and Krishna V. Shenoy"
   location: <a href="https://map.baidu.com/search/中国科学技术大学(中校区)科大医学楼(中校区)/@13054376.835,3720292.37,19z?querytype=s&da_src=shareurl&wd=中国科学技术大学(中校区)科大医学楼(中校区)&c=127&src=0&wd2=合肥市蜀山区&pn=0&sug=1&l=12&b=(13008364.25,3686217.48;13093100.25,3749513.48)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=3bf2ae3eea578c6f2fb90838&device_ratio=2">Medical Building 217</a>
 
-
 - presenter: Jingyuan JI
   date: 2020/10/29, 3:00pm
   paper: "Neural circuits for evidence accumulation and decision making in larval zebrafish"
@@ -477,7 +478,6 @@
   authors: "Armando Machado, Maria Teresa Malheiro, and Wolfram Erlhagen"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">531</a>
 
-  
 - presenter: Pinjie LI
   date: 2020/10/09, 4:00pm
   paper: "Differential Emergence and Stability of Sensory and Temporal Representations in Context-Specific Hippocampal Sequences"
@@ -582,8 +582,6 @@
   authors: "Caroline Lei Wee, Erin Yue Song, Robert Evan Johnson, Deepak Ailani, Owen Randlett, Ji-Yoon Kim, Maxim Nikitchenko, Armin Bahl, Chao-Tsung Yang, Misha B Ahrens, Koichi Kawakami, Florian Engert, Sam Kunes"
   location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a> or <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
-
-
 - presenter: Pinjie LI
   date: 2020/06/28, 10:00am
   paper: "Fundamental bounds on the fidelity of sensory cortical coding"
@@ -608,7 +606,7 @@
   authors: "Oleg I. Rumyantsev, Jérôme A. Lecoq, Oscar Hernandez, Yanping Zhang, Joan Savall, Radosław Chrapkiewicz, Jane Li, Hongkui Zeng, Surya Ganguli & Mark J. Schnitzer "
   location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
-- presenter: Tianqi XU 
+- presenter: Tianqi XU
   date: 2020/06/04, 10:00am
   paper: "Dynamic Stimulation of Visual Cortex Produces Form Vision in Sighted and Blind Humans"
   url: "https://www.cell.com/cell/fulltext/S0092-8674(20)30496-7#secsectitle0035"
@@ -616,7 +614,7 @@
   authors: "Michael S. Beauchamp, Denise Oswalt, Ping Sun, Brett L. Foster, John F. Magnotti, Soroush Niketeghad, Nader Pouratian, William H. Bosking, Daniel Yoshor"
   location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
-- presenter: Ikrma AMAD 
+- presenter: Ikrma AMAD
   date: 2020/05/28, 10:00am
   paper: "A calibrated optogenetic toolbox of stable zebrafish opsin lines"
   url: "https://elifesciences.org/articles/54937"
@@ -632,14 +630,14 @@
   authors: "Yu Xin, Lin Zhong, Yuan Zhang, Taotao Zhou, Jingwei Pan, Ning-long Xu"
   location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
-- presenter: Yuming CHAI 
+- presenter: Yuming CHAI
   date: 2020/05/14, 10:00am
   paper: "Replay of cortical spiking sequences during human memory retrieval"
   url: "https://science.sciencemag.org/content/367/6482/1131.full"
   pdf: "None"
   authors: "Alex P. Vaz, John H. Wittig, Sara K. Inati, Kareem A. Zaghloul"
   location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
-  
+
 - presenter: Chengtian LANG (Undergraduate Student)
   date: 2020/05/07, 10:00am
   paper: "Automatically tracking neurons in a moving and deforming brain"
@@ -671,15 +669,13 @@
   pdf: "None"
   authors: "Carsen Stringer, Marius Pachitariu, Nicholas Steinmetz, Matteo Carandini, Kenneth D. Harris"
   location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
-  
+
 - presenter: Bingzhen ZHAO
   date: 2020/04/09, 10:00am
   paper: "Integration of Parallel Opposing Memories Underlies Memory Extinction"
   url: "https://www.cell.com/cell/fulltext/S0092-8674(18)31037-7"
   pdf: "None"
-  authors: "Johannes Felsenberg, Pedro F. Jacob, Thomas Walker, Oliver Barnstedt, Amelia J. Edmondson-Stait,
-            Markus W. Pleijzier, Nils Otto, Philipp Schlegel, Nadiya Sharifi, Emmanuel Perisse, Carlas S. Smith,
-            J. Scott Lauritzen, Marta Costa, Gregory S.X.E. Jefferis, Davi D. Bock, and Scott Waddell"
+  authors: "Johannes Felsenberg, Pedro F. Jacob, Thomas Walker, Oliver Barnstedt, Amelia J. Edmondson-Stait, Markus W. Pleijzier, Nils Otto, Philipp Schlegel, Nadiya Sharifi, Emmanuel Perisse, Carlas S. Smith, J. Scott Lauritzen, Marta Costa, Gregory S.X.E. Jefferis, Davi D. Bock, and Scott Waddell"
   location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
 - presenter: Jingyuan JI
@@ -722,7 +718,6 @@
   authors: "Edgar Y. Walker, R. James Cotton, Wei Ji Ma, Andreas S. Tolias"
   location: <a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/dt.jpeg">DingTalk APP</a>
 
-
 - presenter: Yuan WANG
   date: 2020/02/26, 7:30pm
   paper: "Single-trial neural dynamics are dominated by richly varied movements"
@@ -738,7 +733,4 @@
   pdf: "None"
   authors: "Britton A. Sauerbrei, Jian-Zhong Guo, Jeremy D. Cohen, Matteo Mischiati, Wendy Guo, Mayank Kabra, Nakul Verma, Brett Mensh, Kristin Branson, Adam W. Hantman"
   location: <a href="https://live.bilibili.com/21857799">Bilibili Live</a>
-
-
-
 

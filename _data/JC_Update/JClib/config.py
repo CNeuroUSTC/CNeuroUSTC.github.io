@@ -11,8 +11,8 @@ def get(arg):
     config['Report_Time']  = r'11:00'
     config['Theory_Time'] = r'19:00'
 
-    config['ymlpath'] = r'G:\Data\WenLab\JC_Update\meeting_info.yml'
-    config['meeting_info_path'] = r'G:\Data\WenLab\JC_Update'
+    config['ymlpath'] = r'G:\Data\WenLab\CNeuroUSTC.github.io\_data\meeting_info.yml'
+    config['meeting_info_path'] = r'G:\Data\WenLab\CNeuroUSTC.github.io\_data'
     config['metting_info_name'] = r'meeting_info'
 
     return config[arg]
