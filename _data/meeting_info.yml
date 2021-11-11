@@ -1,29 +1,133 @@
-- presenter: Chen Shen
-  date: 2021/10/08, 16:00pm
-  paper: "WorkReport"
+- presenter: Rong Wei
+  date: 2021/11/15, 7:00pm
+  paper: "Optimal Degrees of Synaptic Connectivity"
+  url: "https://www.sciencedirect.com/science/article/pii/S0896627317300545"
+  pdf: "https://www.jianguoyun.com/p/DZCD-lgQ59OAChjDvZkE "
+  authors: "Ashok Litwin-Kumar, Kameron Decker Harris, Richard Axel, Haim Sompolinsky, L.F. Abbott"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
+
+- presenter: Jingyuan Ji
+  date: 2021/11/12, 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">To Be Determined</a>
+
+- presenter: Yubin Wu
+  date: 2021/11/12, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">To Be Determined</a>
+
+- presenter: Yubin Wu
+  date: 2021/11/5, 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/中国科学技术大学(中校区)科大医学楼(中校区)/@13054376.835,3720292.37,19z?querytype=s&da_src=shareurl&wd=中国科学技术大学(中校区)科大医学楼(中校区)&c=127&src=0&wd2=合肥市蜀山区&pn=0&sug=1&l=12&b=(13008364.25,3686217.48;13093100.25,3749513.48)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=3bf2ae3eea578c6f2fb90838&device_ratio=2">Medical Building, Meeting Room on the 5th Floor</a>
+
+- presenter: Xiangyu Zhang
+  date: 2021/11/5, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/中国科学技术大学(中校区)科大医学楼(中校区)/@13054376.835,3720292.37,19z?querytype=s&da_src=shareurl&wd=中国科学技术大学(中校区)科大医学楼(中校区)&c=127&src=0&wd2=合肥市蜀山区&pn=0&sug=1&l=12&b=(13008364.25,3686217.48;13093100.25,3749513.48)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=3bf2ae3eea578c6f2fb90838&device_ratio=2">Medical Building, Meeting Room on the 5th Floor</a>
+
+- presenter: Pinjie Li
+  date: 2021/10/29, 4:00pm
+  paper: "None"
   url: "None"
   pdf: "None"
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
 - presenter: Kexin Qi
-  date: 2021/10/08, 16:00pm
-  paper: "*"
-  url: "*"
+  date: 2021/10/29, 4:00pm
+  paper: "Work Report"
+  url: "None"
   pdf: "None"
   authors: "None"
-  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">531</a>
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
+
+- presenter: Xiangyu Zhang
+  date: 2021/10/22, 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
+
+- presenter: Tianqi Xu
+  date: 2021/10/22, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
+
+- presenter: Yuming Chai
+  date: 2021/10/15, 4:00pm
+  paper: "Rehearsal for Dissertation Oral Defense"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329A</a>
+
+- presenter: Jing Huo
+  date: 2021/10/15, 4:00pm
+  paper: "Rehearsal for C.elegans Meeting"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329A</a>
+
+- presenter: Chen Shen
+  date: 2021/10/08, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329A</a>
+
+- presenter: Kexin Qi
+  date: 2021/10/08, 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329A</a>
+
+- presenter: Runhui Li
+  date: 2021/9/24, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329A</a>
 
 - presenter: Jing huo
-  date: 2021/9/22, 16:00pm
+  date: 2021/9/24, 4:00pm
   paper: "Natural sensory context drives diverse brain-wide activity during C. elegans mating"
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0092867421009983"
   pdf: "None"
   authors: "Vladislav Susoy"
+  location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329A</a>
+
+- presenter: Daguang Li
+  date: 2021/9/10, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">531</a>
 
 - presenter: Tianqi Xu :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_md/20210910-TianqiXu.md" target="_blank">Summary</a>
-  date: 2021/9/10, 16:00pm
+  date: 2021/9/10, 4:00pm
   paper: "The hippocampus as a predictive map"
   url: "http://www.nature.com/articles/nn.4650"
   pdf: "None"
@@ -32,7 +136,7 @@
 
 - presenter: Rongkang Xiong
   date: 2021/7/30, 11:00am
-  paper: "WorkReport"
+  paper: "Work Report"
   url: "None"
   pdf: "None"
   authors: "None"
@@ -40,7 +144,7 @@
 
 - presenter: Pinjie Li
   date: 2021/7/30, 11:00am
-  paper: "WorkReport"
+  paper: "Work Report"
   url: "None"
   pdf: "None"
   authors: "None"
@@ -71,7 +175,7 @@
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
 - presenter: Pengcen Jiang & Xuanyu Shen
-  date: 2021/7/21, 14:00pm
+  date: 2021/7/21, 2:00pm
   paper: "Dynamic Mode Decomposition: Data-Driven Modeling of Complex Systems"
   url: "http://epubs.siam.org/doi/book/10.1137/1.9781611974508"
   pdf: "https://www.jianguoyun.com/p/DUNSE2kQuYjfBxjww4ME"
@@ -87,7 +191,7 @@
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
 - presenter: Rongkang Xiong
-  date: 2021/6/30, 19:00pm
+  date: 2021/6/30, 7:00pm
   paper: "The geometry of information coding in correlated neural populations"
   url: "https://hal.archives-ouvertes.fr/hal-03049357"
   pdf: "https://www.jianguoyun.com/p/DcP9PzcQuYjfBxjz7_wD "
@@ -103,7 +207,7 @@
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
 - presenter: Rongkang Xiong & PinJie Li
-  date: 2021/6/22, 19:00pm
+  date: 2021/6/22, 7:00pm
   paper: "The geometry of information coding in correlated neural populations"
   url: "https://hal.archives-ouvertes.fr/hal-03049357"
   pdf: "https://www.jianguoyun.com/p/DcP9PzcQuYjfBxjz7_wD "
@@ -119,7 +223,7 @@
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
 - presenter: Xiaoya Chen & Daguang Li :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_md/616-DaguangXiaoya.md" target="_blank">Summary</a>
-  date: 2021/6/16, 19:00pm
+  date: 2021/6/16, 7:00pm
   paper: "Chapter 3.3 in Theoretical neuroscience"
   url: "https://mitpress.mit.edu/books/theoretical-neuroscience"
   pdf: "https://www.jianguoyun.com/p/Ddn1UTsQuYjfBxiolvsD"
@@ -135,7 +239,7 @@
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
 - presenter: Xiaoya Chen
-  date: 2021/6/09, 19:00pm
+  date: 2021/6/09, 7:00pm
   paper: "Neural tuning and represetational geometry."
   url: "https://arxiv.org/abs/2104.09743"
   pdf: "https://www.jianguoyun.com/p/DehFxC0QuYjfBxikmPoD"
@@ -144,7 +248,7 @@
 
 - presenter: Jinyuan Ji
   date: 2021/6/04, 11:00am
-  paper: "WorkReport"
+  paper: "Work Report"
   url: "None"
   pdf: "None"
   authors: "None"
@@ -168,7 +272,7 @@
 
 - presenter: XiangyuZhang
   date: 2021/5/28, 11:00am
-  paper: "WorkReport"
+  paper: "Work Report"
   url: "None"
   pdf: "None"
   authors: "None"
@@ -184,7 +288,7 @@
 
 - presenter: MengWang
   date: 2021/5/21, 11:00am
-  paper: "WorkReport"
+  paper: "Work Report"
   url: "None"
   pdf: "None"
   authors: "None"
