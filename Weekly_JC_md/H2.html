@@ -3,7 +3,7 @@
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 
-<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
 .mac-os-11 { --title-bar-height:28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
 body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
@@ -282,1413 +282,391 @@ span.cm-strikethrough { text-decoration: line-through; }
 }
 
 
----
----
-
-/*
-Theme Name: Twenty Ten
-Theme URI: http://wordpress.org/themes/twentyten
-Description: The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and
-featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the "Asides" and "Gallery" categories, and has an optional
-one-column page template that removes the sidebar.
-Author: the WordPress team
-Author URI: http://wordpress.org/
-Version: 1.8
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: black, blue, white, two-columns, fixed-layout, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu, flexible-header
-Text Domain: twentyten
-*/
-
-
-/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
--------------------------------------------------------------- */
-
-p.section-title {
-  margin: -40px;
-  margin-bottom: -40px;
-  font-size: 30px;
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
 }
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, font, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td {
-background: transparent;
-border: 0;
-margin: 0;
-padding: 0;
-vertical-align: baseline;
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
 }
-iframe {
-  border: 1px black solid;
-}
+
 body {
-line-height: 1;
-overflow: scroll;
-}
-h1, h2, h3, h4, h5, h6 {
-clear: both;
-font-weight: normal;
-}
-ol, ul {
-list-style: none;
-}
-blockquote {
-quotes: none;
-}
-blockquote:before, blockquote:after {
-content: '';
-content: none;
-}
-del {
-text-decoration: line-through;
-}
-/* tables still need 'cellspacing="0"' in the markup */
-table {
-border-collapse: collapse;
-border-spacing: 0;
-}
-a img {
-border: none;
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
 }
 
-/* =Layout
--------------------------------------------------------------- */
-
-/*
-LAYOUT: Two columns
-DESCRIPTION: Two-column fixed layout with one sidebar right of content
-*/
-
-#container {
-float: left;
-margin: 0 -240px 0 0;
-width: 100%;
-}
-#content {
-margin: 0 280px 0 20px;
-}
-#primary,
-#secondary {
-float: right;
-overflow: hidden;
-width: 220px;
-}
-#secondary {
-clear: right;
-}
-#footer {
-clear: both;
-width: 100%;
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
 }
 
-/*
-LAYOUT: One column, no sidebar
-DESCRIPTION: One centered column with no sidebar
-*/
-
-.one-column #content {
-margin: 0 auto;
-width: 640px;
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1024px;
+	}
 }
 
-/*
-LAYOUT: Full width, no sidebar
-DESCRIPTION: Full width content with no sidebar; used for attachment pages
-*/
-
-.single-attachment #content {
-margin: 0 auto;
-width: 900px;
+@media only screen and (min-width: 1800px) {
+	#write {
+		max-width: 1200px;
+	}
 }
 
-
-/* =Fonts
--------------------------------------------------------------- */
-body,
-input,
-textarea,
-.page-title span,
-.pingback a.url {
-font-family: Georgia, "Bitstream Charter", serif;
-}
-h3#comments-title,
-h3#reply-title,
-#access .menu,
-#access div.menu ul,
-#cancel-comment-reply-link,
-.form-allowed-tags,
-#site-info,
-#site-title,
-#wp-calendar,
-.comment-meta,
-.comment-body tr th,
-.comment-body thead th,
-.entry-content label,
-.entry-content tr th,
-.entry-content thead th,
-.entry-meta,
-.entry-title,
-.entry-utility,
-#respond label,
-.navigation,
-.page-title,
-.pingback p,
-.reply,
-.widget-title,
-.wp-caption-text {
-font-family: "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
-}
-input[type="submit"] {
-font-family: "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
-}
-pre {
-font-family: "Courier 10 Pitch", Courier, monospace;
-}
-code {
-font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
 }
 
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
 
-/* =Structure
--------------------------------------------------------------- */
+/*@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
 
-/* The main theme structure */
-#access .menu-header,
-div.menu,
-#colophon,
-#branding,
-#main,
-#wrapper {
-margin: 0 auto;
-width: 940px;
-}
-#wrapper {
-background: #fff;
-margin-top: 20px;
-padding: 0 20px;
-}
+    .typora-export h1::after,
+    .typora-export h2::after {
+        content: "";
+        display: block;
+        height: 100px;
+        margin-top: -96px;
+        border-top: 1px solid #eee;
+    }
+}*/
 
-/* Structure the footer area */
-#footer-widget-area {
-overflow: hidden;
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
 }
-#footer-widget-area .widget-area {
-float: left;
-margin-right: 20px;
-width: 220px;
+h4 {
+    font-size: 1.25em;
 }
-#footer-widget-area #fourth {
-margin-right: 0;
+h5 {
+    font-size: 1em;
 }
-#site-info {
-float: left;
-font-size: 14px;
-font-weight: bold;
-width: 700px;
+h6 {
+   font-size: 1em;
+    color: #777;
 }
-#site-generator {
-float: right;
-width: 220px;
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
 }
-
-
-/* =Global Elements
--------------------------------------------------------------- */
-
-/* Main global 'theme' and typographic styles */
-body {
-background: #f1f1f1;
-}
-body,
-input,
-textarea {
-color: #666;
-font-size: 12px;
-line-height: 18px;
+li>ol,
+li>ul {
+    margin: 0 0;
 }
 hr {
-background-color: #e7e7e7;
-border: 0;
-clear: both;
-height: 1px;
-margin-bottom: 18px;
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
 }
 
-/* Text elements */
-p {
-margin-bottom: 18px;
+li p.first {
+    display: inline-block;
 }
-ul {
-list-style: square;
-margin: 0 0 18px 1.5em;
-}
+ul,
 ol {
-list-style: decimal;
-margin: 0 0 18px 1.5em;
+    padding-left: 30px;
 }
-ol ol {
-list-style: upper-alpha;
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
 }
-ol ol ol {
-list-style: lower-roman;
-}
-ol ol ol ol {
-list-style: lower-alpha;
-}
-ul ul,
-ol ol,
-ul ol,
-ol ul {
-margin-bottom: 0;
-}
-dl {
-margin: 0 0 24px 0;
-}
-dt {
-font-weight: bold;
-}
-dd {
-margin-bottom: 18px;
-}
-strong {
-font-weight: bold;
-}
-cite,
-em,
-i {
-font-style: italic;
-}
-big {
-font-size: 131.25%;
-}
-ins {
-background: #ffc;
-text-decoration: none;
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
 }
 blockquote {
-font-style: italic;
-padding: 0 3em;
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
 }
-blockquote cite,
-blockquote em,
-blockquote i {
-font-style: normal;
+blockquote blockquote {
+    padding-right: 0;
 }
-pre {
-background: #f7f7f7;
-color: #222;
-line-height: 18px;
-margin-bottom: 18px;
-overflow: auto;
-padding: 1.5em;
+table {
+    padding: 0;
+    word-break: initial;
 }
-abbr,
-acronym {
-border-bottom: 1px dotted #666;
-cursor: help;
+table tr {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
 }
-sup,
-sub {
-height: 0;
-line-height: 1;
-position: relative;
-vertical-align: baseline;
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
 }
-sup {
-bottom: 1ex;
+table th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
 }
-sub {
-top: .5ex;
+table td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
 }
-small {
-font-size: smaller;
+table th:first-child,
+table td:first-child {
+    margin-top: 0;
 }
-input[type="text"],
-input[type="password"],
-input[type="email"],
-input[type="url"],
-input[type="number"],
-textarea {
-background: #f9f9f9;
-border: 1px solid #ccc;
-box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
--moz-box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
--webkit-box-shadow: inset 1px 1px 1px rgba(0,0,0,0.1);
-padding: 2px;
-}
-a:link {
-color: #0066cc;
-}
-a:visited {
-color: #743399;
-}
-a:active,
-a:hover {
-color: #ff4b33;
+table th:last-child,
+table td:last-child {
+    margin-bottom: 0;
 }
 
-/* Text meant only for screen readers */
-.screen-reader-text {
-position: absolute;
-left: -9000px;
+.CodeMirror-lines {
+    padding-left: 4px;
 }
 
-
-/* =Header
--------------------------------------------------------------- */
-
-#header {
-padding: 30px 0 0 0;
-}
-#site-title {
-float: left;
-font-size: 30px;
-line-height: 36px;
-margin: 0 0 18px 0;
-width: 700px;
-margin-left: -4px
-}
-#site-title a {
-color: #000;
-font-weight: bold;
-text-decoration: none;
-}
-#site-description {
-clear: right;
-float: right;
-font-style: italic;
-margin: 15px 0 18px 0;
-width: 220px;
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
 }
 
-/* This is the custom header image */
-#branding img {
-border-top: 4px solid #000;
-border-bottom: 1px solid #000;
-display: block;
-float: left;
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
 }
 
-
-/* =Menu
--------------------------------------------------------------- */
-
-#access {
-background: #000;
-display: block;
-float: left;
-margin: 0 auto;
-width: 940px;
-margin-left: -4px
-}
-#access .menu-header,
-div.menu {
-font-size: 13px;
-margin-left: 12px;
-width: 928px;
-}
-#access .menu-header ul,
-div.menu ul {
-list-style: none;
-margin: 0;
-}
-#access .menu-header li,
-div.menu li {
-float: left;
-position: relative;
-}
-#access a {
-color: #aaa;
-display: block;
-line-height: 38px;
-padding: 0 10px;
-text-decoration: none;
-}
-#access ul ul {
-box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
--moz-box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
--webkit-box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
-display: none;
-position: absolute;
-top: 38px;
-left: 0;
-float: left;
-width: 180px;
-z-index: 99999;
-}
-#access ul ul li {
-min-width: 180px;
-}
-#access ul ul ul {
-left: 100%;
-top: 0;
-}
-#access ul ul a {
-background: #333;
-line-height: 1em;
-padding: 10px;
-width: 160px;
-height: auto;
-}
-#access li:hover > a,
-#access ul ul :hover > a {
-background: #333;
-color: #fff;
-}
-#access ul li:hover > ul {
-display: block;
-}
-#access ul li.current_page_item > a,
-#access ul li.current_page_ancestor > a,
-#access ul li.current-menu-ancestor > a,
-#access ul li.current-menu-item > a,
-#access ul li.current-menu-parent > a {
-color: #fff;
-}
-* html #access ul li.current_page_item a,
-* html #access ul li.current_page_ancestor a,
-* html #access ul li.current-menu-ancestor a,
-* html #access ul li.current-menu-item a,
-* html #access ul li.current-menu-parent a,
-* html #access ul li a:hover {
-color: #fff;
-}
-
-
-/* =Content
--------------------------------------------------------------- */
-#main {
-clear: both;
-overflow: hidden;
-padding: 40px 0 0 0;
-}
-#content {
-margin-bottom: 36px;
-}
-#content,
-#content input,
-#content textarea {
-color: #333;
-font-size: 16px;
-line-height: 24px;
-}
-#content p,
-#content ul,
-#content ol,
-#content dd,
-#content pre,
-#content hr {
-margin-bottom: 24px;
-}
-#content ul ul,
-#content ol ol,
-#content ul ol,
-#content ol ul {
-margin-bottom: 0;
-}
-#content pre,
-#content kbd,
-#content tt,
-#content var {
-font-size: 15px;
-line-height: 21px;
-}
-#content code {
-font-size: 13px;
-}
-#content dt,
-#content th {
-color: #000;
-}
-#content h1,
-#content h2,
-#content h3,
-#content h4,
-#content h5,
-#content h6 {
-color: #000;
-line-height: 1.5em;
-margin: 0 0 20px 0;
-}
-#content table {
-border: 1px solid #e7e7e7;
-margin: 0 -1px 24px 0;
-text-align: left;
-width: 100%;
-}
-#content tr th,
-#content thead th {
-color: #777;
-font-size: 12px;
-font-weight: bold;
-line-height: 18px;
-padding: 9px 24px;
-}
-#content tr td {
-border-top: 1px solid #e7e7e7;
-padding: 6px 24px;
-}
-#content tr.odd td {
-background: #f2f7fc;
-}
-.hentry {
-margin: 0 0 48px 0;
-}
-.home .sticky {
-background: #f2f7fc;
-border-top: 4px solid #000;
-margin-left: -20px;
-margin-right: -20px;
-padding: 18px 20px;
-}
-.single .hentry {
-margin: 0 0 36px 0;
-}
-.page-title {
-color: #000;
-font-size: 14px;
-font-weight: bold;
-margin: 0 0 36px 0;
-}
-.page-title span {
-color: #333;
-font-size: 16px;
-font-style: italic;
-font-weight: normal;
-}
-.page-title a:link,
-.page-title a:visited {
-color: #777;
-text-decoration: none;
-}
-.page-title a:active,
-.page-title a:hover {
-color: #ff4b33;
-}
-#content .entry-title {
-color: #000;
-font-size: 21px;
-font-weight: bold;
-line-height: 1.3em;
-margin-bottom: 10px;
-margin-top: -8px;
-}
-.entry-title a:link,
-.entry-title a:visited {
-color: #000;
-text-decoration: none;
-}
-.entry-title a:active,
-.entry-title a:hover {
-color: #ff4b33;
-}
-.entry-meta {
-color: #777;
-font-size: 12px;
-}
-.entry-meta abbr,
-.entry-utility abbr {
-border: none;
-}
-.entry-meta abbr:hover,
-.entry-utility abbr:hover {
-border-bottom: 1px dotted #666;
-}
-.entry-content,
-.entry-summary {
-clear: both;
-padding: 12px 0 0 0;
-}
-.entry-content .more-link {
-white-space: nowrap;
-}
-#content .entry-summary p:last-child {
-margin-bottom: 12px;
-}
-.entry-content fieldset {
-border: 1px solid #e7e7e7;
-margin: 0 0 24px 0;
-padding: 24px;
-}
-.entry-content fieldset legend {
-background: #fff;
-color: #000;
-font-weight: bold;
-padding: 0 24px;
-}
-.entry-content input {
-margin: 0 0 24px 0;
-}
-.entry-content input.file,
-.entry-content input.button {
-margin-right: 24px;
-}
-.entry-content label {
-color: #777;
-font-size: 12px;
-}
-.entry-content select {
-margin: 0 0 24px 0;
-}
-.entry-content sup,
-.entry-content sub {
-font-size: 10px;
-}
-.entry-content blockquote.left {
-float: left;
-margin-left: 0;
-margin-right: 24px;
-text-align: right;
-width: 33%;
-}
-.entry-content blockquote.right {
-float: right;
-margin-left: 24px;
-margin-right: 0;
-text-align: left;
-width: 33%;
-}
-.page-link {
-clear: both;
-color: #000;
-font-weight: bold;
-line-height: 48px;
-word-spacing: 0.5em;
-}
-.page-link a:link,
-.page-link a:visited {
-background: #f1f1f1;
-color: #333;
-font-weight: normal;
-padding: 0.5em 0.75em;
-text-decoration: none;
-}
-.home .sticky .page-link a {
-background: #d9e8f7;
-}
-.page-link a:active,
-.page-link a:hover {
-color: #ff4b33;
-}
-body.page .edit-link {
-clear: both;
-display: block;
-}
-#entry-author-info {
-background: #f2f7fc;
-border-top: 4px solid #000;
-clear: both;
-font-size: 14px;
-line-height: 20px;
-margin: 24px 0;
-overflow: hidden;
-padding: 18px 20px;
-}
-#entry-author-info #author-avatar {
-background: #fff;
-border: 1px solid #e7e7e7;
-float: left;
-height: 60px;
-margin: 0 -104px 0 0;
-padding: 11px;
-}
-#entry-author-info #author-description {
-float: left;
-margin: 0 0 0 104px;
-}
-#entry-author-info h2 {
-color: #000;
-font-size: 100%;
-font-weight: bold;
-margin-bottom: 0;
-}
-.entry-utility {
-clear: both;
-color: #777;
-font-size: 12px;
-line-height: 18px;
-}
-.entry-meta a,
-.entry-utility a {
-color: #777;
-}
-.entry-meta a:hover,
-.entry-utility a:hover {
-color: #ff4b33;
-}
-#content .video-player {
-padding: 0;
-}
-.format-standard .wp-video,
-.format-standard .wp-audio-shortcode,
-.format-audio .wp-audio-shortcode,
-.format-standard .video-player {
-margin-bottom: 24px;
-}
-
-.highlight td {
-  /* background-color: black; */
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
-  border-collapse: collapse;
-}
-
-/* =Asides
--------------------------------------------------------------- */
-.home #content .format-aside p,
-.home #content .category-asides p {
-font-size: 14px;
-line-height: 20px;
-margin-bottom: 10px;
-margin-top: 0;
-}
-.home .hentry.format-aside,
-.home .hentry.category-asides {
-padding: 0;
-}
-.home #content .format-aside .entry-content,
-.home #content .category-asides .entry-content {
-padding-top: 0;
-}
-
-
-/* =Gallery listing
--------------------------------------------------------------- */
-
-.format-gallery .size-thumbnail img,
-.category-gallery .size-thumbnail img {
-border: 10px solid #f1f1f1;
-margin-bottom: 0;
-}
-.format-gallery .gallery-thumb,
-.category-gallery .gallery-thumb {
-float: left;
-margin-right: 20px;
-margin-top: -4px;
-}
-.home #content .format-gallery .entry-utility,
-.home #content .category-gallery .entry-utility {
-padding-top: 4px;
-}
-
-
-/* =Attachment pages
--------------------------------------------------------------- */
-
-.attachment .entry-content .entry-caption {
-font-size: 140%;
-margin-top: 24px;
-}
-.attachment .entry-content .nav-previous a:before {
-content: '\2190\00a0';
-}
-.attachment .entry-content .nav-next a:after {
-content: '\00a0\2192';
-}
-
-
-/* =Images
--------------------------------------------------------------- */
-
-/*
-Resize images to fit the main content area.
-- Applies only to images uploaded via WordPress by targeting size-* classes.
-- Other images will be left alone. Use "size-auto" class to apply to other images.
-*/
-img.size-auto,
-img.size-full,
-img.size-large,
-img.size-medium,
-.attachment img,
-.widget-container img {
-max-width: 100%; /* When images are too wide for containing element, force them to fit. */
-height: auto; /* Override height to match resized width for correct aspect ratio. */
-}
-.alignleft,
-img.alignleft {
-display: inline;
-float: left;
-margin-right: 24px;
-margin-top: 4px;
-}
-.alignright,
-img.alignright {
-display: inline;
-float: right;
-margin-left: 24px;
-margin-top: 4px;
-}
-.aligncenter,
-img.aligncenter {
-clear: both;
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
-img.alignleft,
-img.alignright,
-img.aligncenter {
-margin-bottom: 12px;
-}
-.wp-caption {
-background: #f1f1f1;
-line-height: 18px;
-margin-bottom: 20px;
-max-width: 632px !important; /* prevent too-wide images from breaking layout */
-padding: 4px;
-text-align: center;
-}
-.wp-caption img {
-margin: 5px 5px 0;
-max-width: 622px; /* caption width - 10px */
-}
-.wp-caption p.wp-caption-text {
-color: #777;
-font-size: 12px;
-margin: 5px;
-}
-.wp-smiley {
-margin: 0;
-}
-.gallery {
-margin: 0 auto 18px;
-}
-.gallery .gallery-item {
-float: left;
-margin-top: 0;
-text-align: center;
-width: 33%;
-}
-.gallery-columns-2 .gallery-item {
-width: 50%;
-}
-.gallery-columns-4 .gallery-item {
-width: 25%;
-}
-.gallery img {
-border: 2px solid #cfcfcf;
-}
-.gallery-columns-2 .attachment-medium {
-max-width: 92%;
-height: auto;
-}
-.gallery-columns-4 .attachment-thumbnail {
-max-width: 84%;
-height: auto;
-}
-.gallery .gallery-caption {
-color: #777;
-font-size: 12px;
-margin: 0 0 12px;
-}
-.gallery dl {
-margin: 0;
-}
-.gallery img {
-border: 10px solid #f1f1f1;
-}
-.gallery br+br {
-display: none;
-}
-#content .attachment img {/* single attachment images should be centered */
-display: block;
-margin: 0 auto;
-}
-
-
-/* =Navigation
--------------------------------------------------------------- */
-
-.navigation {
-color: #777;
-font-size: 12px;
-line-height: 18px;
-overflow: hidden;
-}
-.navigation a:link,
-.navigation a:visited {
-color: #777;
-text-decoration: none;
-}
-.navigation a:active,
-.navigation a:hover {
-color: #ff4b33;
-}
-.nav-previous {
-float: left;
-width: 50%;
-}
-.nav-next {
-float: right;
-text-align: right;
-width: 50%;
-}
-#nav-above {
-margin: 0 0 18px 0;
-}
-#nav-above {
-display: none;
-}
-.paged #nav-above,
-.single #nav-above {
-display: block;
-}
-#nav-below {
-margin: -18px 0 0 0;
-}
-
-
-/* =Comments
--------------------------------------------------------------- */
-#comments {
-clear: both;
-}
-#comments .navigation {
-padding: 0 0 18px 0;
-}
-h3#comments-title,
-h3#reply-title {
-color: #000;
-font-size: 20px;
-font-weight: bold;
-margin-bottom: 0;
-}
-h3#comments-title {
-padding: 24px 0;
-}
-.commentlist {
-list-style: none;
-margin: 0;
-}
-.commentlist li.comment {
-border-bottom: 1px solid #e7e7e7;
-line-height: 24px;
-margin: 0 0 24px 0;
-padding: 0 0 0 56px;
-position: relative;
-}
-.commentlist li:last-child {
-border-bottom: none;
-margin-bottom: 0;
-}
-#comments .comment-body ul,
-#comments .comment-body ol {
-margin-bottom: 18px;
-}
-#comments .comment-body p:last-child {
-margin-bottom: 6px;
-}
-#comments .comment-body blockquote p:last-child {
-margin-bottom: 24px;
-}
-.commentlist ol {
-list-style: decimal;
-}
-.commentlist .avatar {
-position: absolute;
-top: 4px;
-left: 0;
-}
-.comment-author {
-}
-.comment-author cite {
-color: #000;
-font-style: normal;
-font-weight: bold;
-}
-.comment-author .says {
-font-style: italic;
-}
-.comment-meta {
-font-size: 12px;
-margin: 0 0 18px 0;
-}
-.comment-meta a:link,
-.comment-meta a:visited {
-color: #777;
-text-decoration: none;
-}
-.comment-meta a:active,
-.comment-meta a:hover {
-color: #ff4b33;
-}
-.commentlist .even {
-}
-.commentlist .bypostauthor {
-}
-.reply {
-font-size: 12px;
-padding: 0 0 24px 0;
-}
-.reply a,
-a.comment-edit-link {
-color: #777;
-}
-.reply a:hover,
-a.comment-edit-link:hover {
-color: #ff4b33;
-}
-.commentlist .children {
-list-style: none;
-margin: 0;
-}
-.commentlist .children li {
-border: none;
-margin: 0;
-}
-.nopassword,
-.nocomments {
-display: none;
-}
-#comments .pingback {
-border-bottom: 1px solid #e7e7e7;
-margin-bottom: 18px;
-padding-bottom: 18px;
-}
-.commentlist li.comment+li.pingback {
-margin-top: -6px;
-}
-#comments .pingback p {
-color: #777;
-display: block;
-font-size: 12px;
-line-height: 18px;
-margin: 0;
-}
-#comments .pingback .url {
-font-size: 13px;
-font-style: italic;
-}
-
-/* Comments form */
-input[type="submit"] {
-color: #333;
-}
-#respond {
-border-top: 1px solid #e7e7e7;
-margin: 24px 0;
-overflow: hidden;
-position: relative;
-}
-#respond p {
-margin: 0;
-}
-#respond .comment-notes {
-margin-bottom: 1em;
-}
-.form-allowed-tags {
-line-height: 1em;
-}
-.children #respond {
-margin: 0 48px 0 0;
-}
-h3#reply-title {
-margin: 18px 0;
-}
-#comments-list #respond {
-margin: 0 0 18px 0;
-}
-#comments-list ul #respond {
-margin: 0;
-}
-#cancel-comment-reply-link {
-font-size: 12px;
-font-weight: normal;
-line-height: 18px;
-}
-#respond .required {
-color: #ff4b33;
-font-weight: bold;
-}
-#respond label {
-color: #777;
-font-size: 12px;
-}
-#respond input {
-margin: 0 0 9px;
-width: 98%;
-}
-#respond textarea {
-width: 98%;
-}
-#respond .form-allowed-tags {
-color: #777;
-font-size: 12px;
-line-height: 18px;
-}
-#respond .form-allowed-tags code {
-font-size: 11px;
-}
-#respond .form-submit {
-margin: 12px 0;
-}
-#respond .form-submit input {
-font-size: 14px;
-width: auto;
-}
-
-
-/* =Widget Areas
--------------------------------------------------------------- */
-
-.widget-area ul {
-list-style: none;
-margin-left: 0;
-}
-.widget-area ul ul {
-list-style: square;
-margin-left: 1.3em;
-}
-.widget-area select {
-max-width: 100%;
-}
-.widget_search #s {/* This keeps the search inputs in line */
-width: 60%;
-}
-.widget_search label {
-display: none;
-}
-.widget-container {
-word-wrap: break-word;
--webkit-hyphens: auto;
--moz-hyphens: auto;
-hyphens: auto;
-margin: 0 0 18px 0;
-}
-.widget-container .wp-caption img {
-margin: auto;
-}
-.widget-title {
-color: #222;
-font-weight: bold;
-}
-.widget-area a:link,
-.widget-area a:visited {
-text-decoration: none;
-}
-.widget-area a:active,
-.widget-area a:hover {
-text-decoration: underline;
-}
-.widget-area .entry-meta {
-font-size: 11px;
-}
-#wp_tag_cloud div {
-line-height: 1.6em;
-}
-#wp-calendar {
-width: 100%;
-}
-#wp-calendar caption {
-color: #222;
-font-size: 14px;
-font-weight: bold;
-padding-bottom: 4px;
-text-align: left;
-}
-#wp-calendar thead {
-font-size: 11px;
-}
-#wp-calendar thead th {
-}
-#wp-calendar tbody {
-color: #aaa;
-}
-#wp-calendar tbody td {
-background: #f5f5f5;
-border: 1px solid #fff;
-padding: 3px 0 2px;
-text-align: center;
-}
-#wp-calendar tbody .pad {
-background: none;
-}
-#wp-calendar tfoot #next {
-text-align: right;
-}
-.widget_rss a.rsswidget {
-color: #000;
-}
-.widget_rss a.rsswidget:hover {
-color: #ff4b33;
-}
-.widget_rss .widget-title img {
-width: 11px;
-height: 11px;
-}
-
-/* Main sidebars */
-#main .widget-area ul {
-margin-left: 0;
-padding: 0 20px 0 0;
-}
-#main .widget-area ul ul {
-border: none;
-margin-left: 1.3em;
-padding: 0;
-}
-#primary {
-}
-#secondary {
-}
-
-/* Footer widget areas */
-#footer-widget-area {
-}
-
-
-/* =Footer
--------------------------------------------------------------- */
-
-#footer {
-margin-bottom: 20px;
-}
-#colophon {
-border-top: 4px solid #000;
-margin-top: -4px;
-overflow: hidden;
-padding: 18px 0;
-}
-#site-info {
-font-weight: bold;
-}
-#site-info a {
-color: #000;
-text-decoration: none;
-}
-#site-generator {
-font-style: italic;
-position: relative;
-}
-#site-generator a {
-background: url(file:///C://Users//wenlab//AppData//Roaming//Typora/themes/images/wordpress.png) center left no-repeat;
-color: #666;
-display: inline-block;
-line-height: 16px;
-padding-left: 20px;
-text-decoration: none;
-}
-#site-generator a:hover {
-text-decoration: underline;
-}
-img#wpstats {
-display: block;
-margin: 0 auto 10px;
-}
-
-
-/* =Mobile Safari ( iPad, iPhone and iPod Touch )
--------------------------------------------------------------- */
-
-pre {
--webkit-text-size-adjust: 140%;
-}
 code {
--webkit-text-size-adjust: 160%;
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
 }
-#access,
-.entry-meta,
-.entry-utility,
-.navigation,
-.widget-area {
--webkit-text-size-adjust: 120%;
-}
-#site-description {
--webkit-text-size-adjust: none;
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
 }
 
 
-/* =Print Style
--------------------------------------------------------------- */
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
 
 @media print {
-body {
-background: none !important;
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
 }
-#wrapper {
-clear: both !important;
-display: block !important;
-float: none !important;
-position: relative !important;
+
+.md-fences {
+	background-color: #f8f8f8;
 }
-#header {
-border-bottom: 2pt solid #000;
-padding-bottom: 18pt;
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
 }
-#colophon {
-border-top: 2pt solid #000;
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
 }
-#site-title,
-#site-description {
-float: none;
-line-height: 1.4em;
-margin: 0;
-padding: 0;
+
+.md-mathjax-midline {
+    background: #fafafa;
 }
-#site-title {
-font-size: 13pt;
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
 }
-.entry-content {
-font-size: 14pt;
-line-height: 1.6em;
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
 }
-.entry-title {
-font-size: 21pt;
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
 }
-#access,
-#branding img,
-#respond,
-.comment-edit-link,
-.edit-link,
-.navigation,
-.page-link,
-.widget-area {
-display: none !important;
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
 }
-#container,
-#header,
-#footer {
-margin: 0;
-width: 100%;
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
 }
-#content,
-.one-column #content {
-margin: 24pt 0 0;
-width: 100%;
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
 }
-.wp-caption p {
-font-size: 11pt;
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
 }
-#site-info,
-#site-generator {
-float: none;
-width: auto;
+
+.sidebar-tabs {
+    border-bottom: none;
 }
-#colophon {
-width: auto;
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
 }
-img#wpstats {
-display: none;
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
 }
-#site-generator a {
-margin: 0;
-padding: 0;
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
 }
-#entry-author-info {
-border: 1px solid #e7e7e7;
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
 }
-#main {
-display: inline;
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
 }
-.home .sticky {
-border: none;
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+/*.html-for-mac {
+    --item-hover-bg-color: #E6F0FE;
+}*/
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+    opacity: 0.4;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+.menu-item-container a.menu-style-btn {
+    background-color: #f5f8fa;
+    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
 }
 
 
@@ -1844,6 +822,6 @@ mjx-container[jax="SVG"] path[data-c], mjx-container[jax="SVG"] use[data-c] {
 </style><title>H2</title>
 </head>
 <body class='typora-export os-windows'><div class='typora-export-content'>
-<div id='write'  class=''><h2 id='h2'><span>H2</span></h2><p>&nbsp;</p><h4 id='h4'><span>H4</span></h4><p>&nbsp;</p><p><span>body</span></p><pre class="md-fences md-end-block ty-contain-cm modeLoaded" spellcheck="false" lang=""><div class="CodeMirror cm-s-inner cm-s-null-scroll CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 6.8px; left: 4px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 0px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><span><span>​</span>x</span></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: 0px; width: 0px;"></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">int main(){return 0;}</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 18px;"></div><div class="CodeMirror-gutters" style="display: none; height: 18px;"></div></div></div></pre><p><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="6.256ex" height="2.199ex" role="img" focusable="false" viewBox="0 -833.9 2765.1 971.9" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.312ex;"><defs><path id="MJX-13-TEX-I-1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path><path id="MJX-13-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path id="MJX-13-TEX-N-2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path><path id="MJX-13-TEX-I-1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mi"><use data-c="1D452" xlink:href="#MJX-13-TEX-I-1D452"></use></g><g data-mml-node="mn" transform="translate(499,363) scale(0.707)"><use data-c="32" xlink:href="#MJX-13-TEX-N-32"></use></g></g><g data-mml-node="mo" transform="translate(1180.3,0)"><use data-c="2264" xlink:href="#MJX-13-TEX-N-2264"></use></g><g data-mml-node="mi" transform="translate(2236.1,0)"><use data-c="1D44E" xlink:href="#MJX-13-TEX-I-1D44E"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>e</mi><mn>2</mn></msup><mo>≤</mo><mi>a</mi></math></mjx-assistive-mml></mjx-container><script type="math/tex">e^2\leq a</script></p><p>&nbsp;</p></div></div>
+<div id='write'  class=''><h2 id='h2'><span>H2</span></h2><p>&nbsp;</p><h4 id='h4'><span>H4</span></h4><p>&nbsp;</p><p><span>body</span></p><pre class="md-fences md-end-block ty-contain-cm modeLoaded" spellcheck="false" lang=""><div class="CodeMirror cm-s-inner cm-s-null-scroll CodeMirror-wrap" lang=""><div style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 9.2px; left: 8px;"><textarea autocorrect="off" autocapitalize="off" spellcheck="false" tabindex="0" style="position: absolute; bottom: -1em; padding: 0px; width: 1000px; height: 1em; outline: none;"></textarea></div><div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div><div class="CodeMirror-gutter-filler" cm-not-content="true"></div><div class="CodeMirror-scroll" tabindex="-1"><div class="CodeMirror-sizer" style="margin-left: 0px; margin-bottom: 0px; border-right-width: 0px; padding-right: 0px; padding-bottom: 0px;"><div style="position: relative; top: 0px;"><div class="CodeMirror-lines" role="presentation"><div role="presentation" style="position: relative; outline: none;"><div class="CodeMirror-measure"><pre><span>xxxxxxxxxx</span></pre></div><div class="CodeMirror-measure"></div><div style="position: relative; z-index: 1;"></div><div class="CodeMirror-code" role="presentation"><div class="CodeMirror-activeline" style="position: relative;"><div class="CodeMirror-activeline-background CodeMirror-linebackground"></div><div class="CodeMirror-gutter-background CodeMirror-activeline-gutter" style="left: 0px; width: 0px;"></div><pre class=" CodeMirror-line " role="presentation"><span role="presentation" style="padding-right: 0.1px;">int main(){return 0;}</span></pre></div></div></div></div></div></div><div style="position: absolute; height: 0px; width: 1px; border-bottom: 0px solid transparent; top: 22px;"></div><div class="CodeMirror-gutters" style="display: none; height: 22px;"></div></div></div></pre><p><mjx-container class="MathJax" jax="SVG" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="6.256ex" height="2.199ex" role="img" focusable="false" viewBox="0 -833.9 2765.1 971.9" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.312ex;"><defs><path id="MJX-13-TEX-I-1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"></path><path id="MJX-13-TEX-N-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path id="MJX-13-TEX-N-2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path><path id="MJX-13-TEX-I-1D44E" d="M33 157Q33 258 109 349T280 441Q331 441 370 392Q386 422 416 422Q429 422 439 414T449 394Q449 381 412 234T374 68Q374 43 381 35T402 26Q411 27 422 35Q443 55 463 131Q469 151 473 152Q475 153 483 153H487Q506 153 506 144Q506 138 501 117T481 63T449 13Q436 0 417 -8Q409 -10 393 -10Q359 -10 336 5T306 36L300 51Q299 52 296 50Q294 48 292 46Q233 -10 172 -10Q117 -10 75 30T33 157ZM351 328Q351 334 346 350T323 385T277 405Q242 405 210 374T160 293Q131 214 119 129Q119 126 119 118T118 106Q118 61 136 44T179 26Q217 26 254 59T298 110Q300 114 325 217T351 328Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msup"><g data-mml-node="mi"><use data-c="1D452" xlink:href="#MJX-13-TEX-I-1D452"></use></g><g data-mml-node="mn" transform="translate(499,363) scale(0.707)"><use data-c="32" xlink:href="#MJX-13-TEX-N-32"></use></g></g><g data-mml-node="mo" transform="translate(1180.3,0)"><use data-c="2264" xlink:href="#MJX-13-TEX-N-2264"></use></g><g data-mml-node="mi" transform="translate(2236.1,0)"><use data-c="1D44E" xlink:href="#MJX-13-TEX-I-1D44E"></use></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>e</mi><mn>2</mn></msup><mo>≤</mo><mi>a</mi></math></mjx-assistive-mml></mjx-container><script type="math/tex">e^2\leq a</script></p><p>&nbsp;</p></div></div>
 </body>
 </html>
