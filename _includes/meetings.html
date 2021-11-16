@@ -1,10 +1,10 @@
 <table style="height: 300px;" width="800">
   <tbody>
     <tr class="alt" style="border: 1px solid black;">
-      <th style="width: 10%;">Date</th>
-      <th style="width: 30%;">Presenter</th>
-      <th style="width: 60%;">Reading</th>
-      <th style="width: 60%;">Location</th>
+      <th style="width: 10%; border-bottom: 1px solid black;">Date</th>
+      <th style="width: 30%; border-bottom: 1px solid black;">Presenter</th>
+      <th style="width: 60%; border-bottom: 1px solid black;">Reading</th>
+      <th style="width: 60%; border-bottom: 1px solid black;">Location</th>
     </tr>
 
     {% assign my_counter = 0 %}
@@ -13,7 +13,7 @@
 
     {% for entry in site.data.meeting_info %}
       {% if next_meeting != future_meeting_num_plus_1 %}
-    <tr class="highlight" style="border: 1px solid black;">
+    <tr class="highlight">
       {% else %}
         {% if my_counter == 0 %}
     <tr class="alt">
@@ -25,8 +25,7 @@
       {% endif %}
     <!-- date -->
     {% if next_meeting != future_meeting_num_plus_1 %}
-    <td>
-    <!-- <td style="border-left: 1px solid black;"> -->
+    <td style="border-left: 1px solid black;">
     {% else %}
     <td>
     {% endif %}
@@ -62,8 +61,7 @@
     </td>
     <!-- location -->
     {% if next_meeting != future_meeting_num_plus_1 %}
-    <td>
-    <!-- <td style="border-right: 1px solid black;"> -->
+    <td style="border-right: 1px solid black;">
       <p hidden>{% increment next_meeting %}</p>
     {% else %}
     <td>
