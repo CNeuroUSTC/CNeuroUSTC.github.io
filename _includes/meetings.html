@@ -8,10 +8,11 @@
     </tr>
 
     {% assign my_counter = 0 %}
+    {% assign future_meeting_num_plus_1 = 4 %}
     <p hidden>{% increment next_meeting %}</p>
 
     {% for entry in site.data.meeting_info %}
-      {% if next_meeting != 3 %}
+      {% if next_meeting != future_meeting_num_plus_1 %}
     <tr class="highlight">
       {% else %}
         {% if my_counter == 0 %}
@@ -23,7 +24,7 @@
         {% endif %}
       {% endif %}
     <!-- date -->
-    {% if next_meeting != 3 %}
+    {% if next_meeting != future_meeting_num_plus_1 %}
     <td style="border-left: 1px solid black;">
     {% else %}
     <td>
@@ -59,7 +60,7 @@
       {% endunless %}
     </td>
     <!-- location -->
-    {% if next_meeting != 3 %}
+    {% if next_meeting != future_meeting_num_plus_1 %}
     <td style="border-right: 1px solid black;">
       <p hidden>{% increment next_meeting %}</p>
     {% else %}
