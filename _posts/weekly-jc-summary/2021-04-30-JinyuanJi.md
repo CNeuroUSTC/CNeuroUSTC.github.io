@@ -1,0 +1,7 @@
+---
+layout: post
+author: Jingyuan Ji
+title: paper title
+---
+
+This paper show how to developed a virtual reality system for head-restrained adult zebrafish, which includes simultaneous two-photon brain calcium imaging. By this system, authors found that:(1)Fish in “right” VR closed-loop showed less struggle and inactivity, and this feature can be used to check if the correct closed-loop has been created. (2)Fish in closed-loop VR showed  social behaviors similar to those in normal environments. (3)Some neurons in adult zebrafish forebrain responded selectively to the mismatch between the expected and the actual visual consequences of motor output.
