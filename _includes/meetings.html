@@ -38,16 +38,16 @@
     <!-- paper -->
     <td>
       {% if entry.url == "None" %}
-        <p><i>{{entry.paper}}</i>
+        <p><i>{{entry.paper}}. <br></i>
         {% unless entry.authors == "None" %}
           {{entry.authors}}
         {% endunless %}
       {% else %}
         <!-- hack to deal with comma -->
         {% if entry.pdf == "None" %}
-          <p><i>{{entry.paper}}</i>
+          <p><i>{{entry.paper}}. <br></i>
         {% else %}
-          <p><i>{{entry.paper}}, </i>
+          <p><i>{{entry.paper}}. <br></i>
         {% endif %}
         {{entry.authors}}
       {% endif %}
