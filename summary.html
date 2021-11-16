@@ -14,7 +14,7 @@ title: Summary
         <li>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <!-- {{ post.excerpt }} -->
-        <p>{{ post.date | date_to_string }} - {{ post.author }}</p>
+        {{ post.date | date_to_string }} - {{ post.author }}
         </li>
     {% endfor %}
     </ul>
