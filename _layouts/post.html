@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-<p class="section-title">
-</p><h2>Summary</h2>
-<p></p>
+<div id="content" role="main">
+    <p class="section-title">
+    </p><h2>Summary</h2>
 
-<h4><b>{{ page.title }}</b></h4>
+    <h4><b>{{ page.title }}</b></h4>
 
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+    <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-{{ content }}
+    {{ content }}
+</div>
