@@ -12,9 +12,8 @@ title: Summary
     <ul>
     {% for post in site.posts %}
         <li>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a>{{ post.date | date_to_string }} - {{ post.author }}</h3>
         <!-- {{ post.excerpt }} -->
-        {{ post.date | date_to_string }} - {{ post.author }}
         </li>
     {% endfor %}
     </ul>
