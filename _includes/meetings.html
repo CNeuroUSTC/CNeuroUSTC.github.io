@@ -25,6 +25,7 @@
       {% endif %}
     <!-- date -->
     {% if next_meeting != future_meeting_num_plus_1 %}
+    <td>
     <!-- <td style="border-left: 1px solid black;"> -->
     {% else %}
     <td>
@@ -61,6 +62,7 @@
     </td>
     <!-- location -->
     {% if next_meeting != future_meeting_num_plus_1 %}
+    <td>
     <!-- <td style="border-right: 1px solid black;"> -->
       <p hidden>{% increment next_meeting %}</p>
     {% else %}
