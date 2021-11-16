@@ -13,7 +13,7 @@
 
     {% for entry in site.data.meeting_info %}
       {% if next_meeting != future_meeting_num_plus_1 %}
-    <tr class="highlight">
+    <tr class="highlight" style="border: 1px solid black;">
       {% else %}
         {% if my_counter == 0 %}
     <tr class="alt">
