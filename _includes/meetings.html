@@ -61,7 +61,7 @@
     <!-- location -->
     {% if next_meeting != 0 %}
     <td style="border-right: 1px solid black;">
-      {% assign next_meeting = 0 %}
+      {% assign next_meeting -= 1 %}
     {% else %}
     <td>
     {% endif %}
