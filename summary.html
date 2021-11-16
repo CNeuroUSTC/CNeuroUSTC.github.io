@@ -2,13 +2,20 @@
 layout: default
 title: Summary
 ---
-<p><h1>Latest Summarys</h1></p>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+<div id="content" role="main">
+
+    <p class="section-title">
+      <h2>Latest Summarys</h2>
+    </p>
+
+    <ul>
+    {% for post in site.posts %}
+        <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.excerpt }}
+        </li>
+    {% endfor %}
+    </ul>
+    
+</div><!-- #content -->
