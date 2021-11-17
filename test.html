@@ -29,7 +29,7 @@ title: USTC Computational Neuroscience Journal Club
   
 
   {% for entry in site.data.meeting_info %}
-    {% assign summary = site.posts |  wher: "title", entry.paper%}
+    {% assign summary = site.posts |  where: "title", entry.paper%}
     {% for summary_page in summary %}
       {% assign entry_date = entry.date | date_to_string%}
       {% assign summary_date = summary_page.date | date_to_string%}
