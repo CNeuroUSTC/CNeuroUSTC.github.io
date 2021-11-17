@@ -18,12 +18,15 @@
       {% assign dateStart = entry.date | date: '%s' %}
       {% assign diffSeconds = dateStart | minus: nowTimestamp %}
       
+      {%- comment -%}
+      Set the style of every row.
+      {%- endcomment -%}
       {% if diffSeconds > 0%}
         {% if my_counter == 0 %}
-          <tr class="alt" style="border-left: 1px solid black;">
+          <tr class="alt" style="border: 1px solid black;">
           {% assign my_counter = 1 %}
         {% else %}
-          <tr style="border-left: 1px solid black;">
+          <tr style="border: 1px solid black;">
           {% assign my_counter = 0 %}
         {% endif %}
       {% else %} 
@@ -107,7 +110,7 @@
       {% endif %}
     </td>
     {%- endcomment -%}
-    
+
   </tr>
   {% endfor %}
   </tbody>
