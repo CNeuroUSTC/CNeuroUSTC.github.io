@@ -46,15 +46,16 @@
 
     <!-- presenter -->
     <td>
-      <p>{{entry.presenter}}</p>
+      <p>{{entry.presenter}}<br>
       {% assign summary = site.posts |  where: "title", entry.paper%}
       {% for summary_page in summary %}
         {% assign entry_date = entry.date | date_to_string%}
         {% assign summary_date = summary_page.date | date_to_string%}
         {% if summary_date == entry_date %}
-          <p>( <a href= {{summary_page.url}} target="_blank">Summary</a> )</p>
+          ( <a href= {{summary_page.url}} target="_blank">Summary</a> )
         {% endif %}
       {% endfor %}
+      </p>
     </td>
 
     <!-- paper -->
