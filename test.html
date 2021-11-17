@@ -29,17 +29,12 @@ title: USTC Computational Neuroscience Journal Club
   
 
   {% for entry in site.data.meeting_info %}
-    {% assign date1 = entry.date | date_to_string%}
-    {% assign date2 = date1 | date: "%Y-%m-%d %H:%M:%S %z" %}
-    {% assign post1 = site.posts | first %}
-    <!-- <p>Date: {{date2}} {{post1.date}}</a></p> -->
-    {% assign summary = site.posts |  where_exp: "post", "post.title == entry.paper"%}
+    {% assign summary = site.posts |  wher: "title", entry.paper%}
     {% for summary_page in summary %}
+      {% assign entry_date = entry.date | date_to_string%}
       {% assign summary_date = summary_page.date | date_to_string%}
-      {% if summary_date == date1 %}
+      {% if summary_date == entry_date %}
         <p>{{ summary_page.author }}: <a href= {{summary_page.url}} target="_blank">Summary</a>{{ summary_page.title }}</p>
-      {% else %}
-        <p>({{ summary_date }})-({{ date1 }})</p>
       {% endif %}
     {% endfor %}
   {% endfor %}
