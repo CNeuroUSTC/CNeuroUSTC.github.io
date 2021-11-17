@@ -26,6 +26,16 @@ title: USTC Computational Neuroscience Journal Club
         <p>False!</p>
     {% endif %}
   
+
+  {% for entry in site.data.meeting_info %}
+    {% assign date = entry.date | date "%Y-%m-%d %H:%M%s"%}
+    {% assign summary = site.posts | where: "title", entry.paper | where: "date", date%}
+    {% if summary %}
+      <p><a href= summary.url >{{ summary.title }}</a></p>
+    {% endif %}
+  {% endfor %}
+
+  {% comment %}
   <ul>
     {% for post in site.pages %}
         <li>
@@ -35,5 +45,6 @@ title: USTC Computational Neuroscience Journal Club
         </li>
     {% endfor %}
     </ul>
+    {% endcomment %}
 
 </div><!-- #content -->
