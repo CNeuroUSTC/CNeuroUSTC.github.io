@@ -100,13 +100,11 @@
     <!-- location -->
     <td>
       <p>
-        {% assign rooms = site.data.rooms |  where: "room", entry.location%}
-        {% if rooms %}
-          {% for room in rooms %}
-            <a href= {{room.url}} target="_blank">{{room.room}}</a>
-          {% endfor %}
+        {% assign room = site.data.rooms |  where: "room", entry.location | first %}
+        {% if room %}
+          <a href= {{room.url}} target="_blank">{{room.room}}</a>
         {% else %}
-          {% assign room = site.data.rooms |  where: "room", "entry.location" | first %}
+          {% assign room = site.data.rooms |  where: "room", "208" | first %}
           <a href= {{room.url}} target="_blank">{{entry.location}}</a>
         {% endif %}
       </p>
