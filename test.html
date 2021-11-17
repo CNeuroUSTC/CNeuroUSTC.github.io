@@ -37,7 +37,7 @@ title: USTC Computational Neuroscience Journal Club
     {% for summary_page in summary %}
       {% assign summary_date = summary_page.date | date_to_string%}
       {% if summary_date == date1 %}
-        <p>{{ summary_page.title }}</p>
+        <p>{{ summary_page.author }}: <a href= {{summary_page.url}} target="_blank">Summary</a>{{ summary_page.title }}</p>
       {% else %}
         <p>({{ summary_date }})-({{ date1 }})</p>
       {% endif %}
