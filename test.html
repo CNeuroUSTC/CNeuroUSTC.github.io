@@ -36,8 +36,10 @@ title: USTC Computational Neuroscience Journal Club
     {% assign summary = site.posts |  where_exp: "post", "post.title == entry.paper"%}
     {% assign summary2 = summary |  where_exp: "post", "post.title == entry.presenter"%}
     {% for summary_page in summary %}
-      {% if summary_page.author == "Pinjie Li" %}
+      {% if summary_page.author == entry.presenter %}
       <p>{{ summary_page.title }}</p>
+      {% else %}
+      <p>({{ summary_page.author }})-({{ entry.presenter }})</p>
       {% endif %}
     {% endfor %}
   {% endfor %}
