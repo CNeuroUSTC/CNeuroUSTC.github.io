@@ -102,7 +102,7 @@
   authors: "Haozhe Shan"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
-- presenter: Xiangyu Zhang :<a href="https://CNeuroUSTC.github.io/Weekly_JC_Summary/20211022-XiangyuZhang.html" target="_blank">Summary</a>
+- presenter: Xiangyu Zhang
   date: 2021/10/22, 4:00pm
   paper: "A neuronal circuit that generates the temporal motor sequence for the defensive response in zebrafish larvae"
   url: "https://doi.org/10.1016/j.cub.2021.06.054"
@@ -206,7 +206,7 @@
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">531</a>
 
-- presenter: Tianqi Xu :<a href="https://CNeuroUSTC.github.io/Weekly_JC_Summary/20210910-TianqiXu.html" target="_blank">Summary</a>
+- presenter: Tianqi Xu
   date: 2021/9/10, 4:00pm
   paper: "The hippocampus as a predictive map"
   url: "http://www.nature.com/articles/nn.4650"
@@ -374,7 +374,7 @@
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">531</a>
 
-- presenter: Yubin Wu :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_Summary/20210521-YubinWu.md" target="_blank">Summary</a>
+- presenter: Yubin Wu
   date: 2021/5/21, 10:00am
   paper: "A distributional code for value in dopaminebased reinforcement learning"
   url: "https://www.nature.com/articles/s41586-019-1924-6"
@@ -390,7 +390,7 @@
   authors: "Gordon J Berman, William Bialek, Joshua W Shaevitz"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
-- presenter: Pinjie Li :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_Summary/20210514-PinJieLi.md" target="_blank">Summary</a>
+- presenter: Pinjie Li
   date: 2021/5/14, 10:00am
   paper: "Orbitofrontal Cortex Uses Distinct Codes for Different Choice Attributes in Decisions Motivated by Curiosity"
   url: "https://doi.org/10.1016/j.neuron.2014.12.050"
@@ -406,7 +406,7 @@
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
-- presenter: Pengcen Jiang :<a href="https://CNeuroUSTC.github.io/Theory_JC_Summary/20210512-busing2011MCMC-neural sampling.pdf" target="_blank">Summary</a>
+- presenter: Pengcen Jiang
   date: 2021/5/12, 10:00am
   paper: "MCMC Sampling"
   url: "None"
@@ -422,7 +422,7 @@
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">531</a>
 
-- presenter: Jinyuan Ji :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_Summary/20210430-JinyuanJi.md" target="_blank">Summary</a>
+- presenter: Jinyuan Ji
   date: 2021/4/30, 10:00am
   paper: "A virtual reality system to analyze neural activity and behavior in adult zebrafish"
   url: "https://www.nature.com/articles/s41592-020-0759-2"
@@ -454,7 +454,7 @@
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">329B</a>
 
-- presenter: Xiangyu Zhang :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_Summary/20210423-XiangyuZhang.md" target="_blank">Summary</a>
+- presenter: Xiangyu Zhang
   date: 2021/4/23, 10:00am
   paper: "Larval Zebrafish Use Olfactory Detection of Sodium and Chloride to Avoid Salt Water"
   url: "https://www.biorxiv.org/content/10.1101/2020.08.19.258061v1"
@@ -486,7 +486,7 @@
   authors: "None"
   location: <a href="https://map.baidu.com/search/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6(%E8%A5%BF%E6%A0%A1%E5%8C%BA)-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%A4%A7%E6%A5%BC&c=127&src=0&wd2=%E5%90%88%E8%82%A5%E5%B8%82%E8%9C%80%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2">208</a>
 
-- presenter: Meng Wang :<a href="https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Weekly_JC_Summary/20210409-MengWang.md" target="_blank">Summary</a>
+- presenter: Meng Wang
   date: 2021/4/9, 10:00am
   paper: "Flexible recruitment of memory-based choice representations by the human medial frontal cortex"
   url: "https://science.sciencemag.org/content/368/6498/eaba3313"
