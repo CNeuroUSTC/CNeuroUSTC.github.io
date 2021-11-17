@@ -5,6 +5,7 @@ url: CNeuroUSTC.github.io
 description: "USTC Computational Neuroscience Journal Club"
 github_username: UCNeuro JC
 meta_author:
+timezone: Asia/Shanghai
 
 # Google webmaster tools
 google_verify:

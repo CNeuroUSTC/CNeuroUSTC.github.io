@@ -14,7 +14,7 @@ title: USTC Computational Neuroscience Journal Club
     {% assign nowTimestamp = 'now' | date: '%s' %} 
        
     {% comment %} difference in seconds {% endcomment %} 
-    {% assign diffSeconds = nowTimestamp | minus: dateStart %} 
+    {% assign diffSeconds = dateStart | minus: nowTimestamp %} 
     <p>difference in Seconds = {{ diffSeconds }}</p>
     
     {% comment %} difference in days {% endcomment %} 
