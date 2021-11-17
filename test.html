@@ -21,9 +21,9 @@ title: USTC Computational Neuroscience Journal Club
     {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}    
     <p>difference in days = {{ diffDays }}</p> 
     {% if diffSeconds > 0 %}
-        <p>True!</p>
+        <p>T{{nowTimestamp}}</p>
     {% else %}
-        <p>False!</p>
+        <p>F{{nowTimestamp}}</p>
     {% endif %}
   
 
@@ -33,9 +33,9 @@ title: USTC Computational Neuroscience Journal Club
     {% assign post1 = site.posts | first %}
     <!-- <p>Date: {{date2}} {{post1.date}}</a></p> -->
     {% assign summary = site.posts |  where_exp: "post", "post.title == entry.paper"%}
-    {% assign summary2 = summary |  where_exp: "post", "post.title == entry.author"%}
+    {% assign summary2 = summary |  where_exp: "post", "post.title == entry.presenter"%}
     {% for summary_page in summary %}
-      {% if summary_page.author == entry.author %}
+      {% if summary_page.author == entry.presenter %}
       <p>{{ summary_page.title }}</p>
       {% endif %}
     {% endfor %}
