@@ -38,7 +38,7 @@ footer:
   credits: Credits
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 kramdown:
   syntax_highlighter: coderay
   syntax_highlighter_opts:
