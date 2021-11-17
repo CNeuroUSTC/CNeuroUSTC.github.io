@@ -47,6 +47,14 @@
     <!-- presenter -->
     <td>
       <p>{{entry.presenter}}</p>
+      {% assign summary = site.posts |  where: "title", entry.paper%}
+      {% for summary_page in summary %}
+        {% assign entry_date = entry.date | date_to_string%}
+        {% assign summary_date = summary_page.date | date_to_string%}
+        {% if summary_date == entry_date %}
+          <p>( <a href= {{summary_page.url}} target="_blank">Summary</a> )</p>
+        {% endif %}
+      {% endfor %}
     </td>
 
     <!-- paper -->
@@ -56,7 +64,7 @@
       <i>. </i><br>{{entry.authors}} 
       {% endunless %}
       {% unless entry.url == "None" %}
-      (<a href="{{entry.url}}">link</a>
+      ( <a href="{{entry.url}}">link</a>
         {% unless entry.pdf == "None" %}
         , <a href="{{entry.pdf}}">pdf</a>
         {% endunless %}
