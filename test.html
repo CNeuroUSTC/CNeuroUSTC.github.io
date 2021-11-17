@@ -34,8 +34,10 @@ title: USTC Computational Neuroscience Journal Club
     <!-- <p>Date: {{date2}} {{post1.date}}</a></p> -->
     {% assign summary = site.posts |  where_exp: "post", "post.title == entry.paper"%}
     {% assign summary2 = summary |  where_exp: "post", "post.title == entry.author"%}
-    {% for summary_page in summary2 %}
+    {% for summary_page in summary %}
+      {% if summary_page.author == entry.author %}
       <p>{{ summary_page.title }}</p>
+      {% endif %}
     {% endfor %}
   {% endfor %}
 
