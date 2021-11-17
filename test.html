@@ -31,10 +31,10 @@ title: USTC Computational Neuroscience Journal Club
     {% assign date1 = entry.date | date_to_string%}
     {% assign date2 = date1 | date: "%Y-%m-%d %H:%M:%S %z" %}
     {% assign post1 = site.posts | first %}
-    <p>Date: {{date2}} {{post1.date}}</a></p>
-    {% assign summary = site.posts | where: "title", entry.paper | where: "date", date2%}
+    <!-- <p>Date: {{date2}} {{post1.date}}</a></p> -->
+    {% assign summary = site.posts | where: "date", date2%}
     {% if summary %}
-      <p><a href= summary.url >{{ summary.title }}</a></p>
+      <p>{{ summary.title }}</p>
     {% endif %}
   {% endfor %}
 
