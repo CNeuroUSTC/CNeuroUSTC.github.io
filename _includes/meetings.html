@@ -8,11 +8,16 @@
     </tr>
 
     {% assign my_counter = 0 %}
+    {% assign nowTimestamp = 'now' | date: '%s' %}
+    {%- comment -%}
     {% assign future_meeting_num_plus_1 = 4 %}
     <p hidden>{% increment next_meeting %}</p>
+    {%- endcomment -%}
 
     {% for entry in site.data.meeting_info %}
-      {% if next_meeting != future_meeting_num_plus_1 %}
+      {% assign dateStart = entry.date | date: '%s' %}
+      {% assign diffSeconds = dateStart | minus: nowTimestamp %}
+      {% if diffSeconds > 0%}
     <tr class="highlight">
       {% else %}
         {% if my_counter == 0 %}
@@ -24,7 +29,7 @@
         {% endif %}
       {% endif %}
     <!-- date -->
-    {% if next_meeting != future_meeting_num_plus_1 %}
+    {% if diffSeconds > 0%}
     <td style="border-left: 1px solid black;">
     {% else %}
     <td>
@@ -60,7 +65,7 @@
       {% endunless %}
     </td>
     <!-- location -->
-    {% if next_meeting != future_meeting_num_plus_1 %}
+    {% if diffSeconds > 0%}
     <td style="border-right: 1px solid black;">
       <p hidden>{% increment next_meeting %}</p>
     {% else %}
