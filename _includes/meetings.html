@@ -104,8 +104,7 @@
         {% if room %}
           <a href= {{room.url}} target="_blank">{{room.room}}</a>
         {% else %}
-          {% assign room = site.data.rooms |  where: "room", "208" | first %}
-          <a href= {{room.url}} target="_blank">{{entry.location}}</a>
+          {{entry.location}}
         {% endif %}
       </p>
     </td>
