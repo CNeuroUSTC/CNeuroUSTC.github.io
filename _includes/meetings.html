@@ -99,7 +99,17 @@
 
     <!-- location -->
     <td>
-      <p>{{entry.location}}</p>
+      <p>
+        {% assign rooms = site.data.rooms |  where: "room", entry.location%}
+        {% if rooms %}
+          {% for room in rooms %}
+            <a href= {{room.url}} target="_blank">{{room.room}}</a>
+          {% endfor %}
+        {% else %}
+          {% assign room = site.data.rooms |  where: "room", "entry.location" | first %}
+          <a href= {{room.url}} target="_blank">{{entry.location}}</a>
+        {% endif %}
+      </p>
     </td>
     
     {%- comment -%}
