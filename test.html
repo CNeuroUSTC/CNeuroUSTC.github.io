@@ -32,7 +32,7 @@ title: USTC Computational Neuroscience Journal Club
     {% assign date2 = date1 | date: "%Y-%m-%d %H:%M:%S %z" %}
     {% assign post1 = site.posts | first %}
     <!-- <p>Date: {{date2}} {{post1.date}}</a></p> -->
-    {% assign summary = site.posts |  where: "date", "2021-04-09 00:00:00" %}
+    {% assign summary = site.posts |  where: "date", "2021-04-09 00:00:00 +0800" %}
     {% for summary_page in summary %}
       <p>{{ summary_page.title }}</p>
     {% endfor %}
