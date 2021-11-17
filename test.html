@@ -20,10 +20,11 @@ title: USTC Computational Neuroscience Journal Club
     {% comment %} difference in days {% endcomment %} 
     {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}    
     <p>difference in days = {{ diffDays }}</p> 
+    {% assign nowTime = 'now' | date: '%Y-%m-%d %H:%M:%S' %} 
     {% if diffSeconds > 0 %}
-        <p>T{{nowTimestamp}}</p>
+        <p>T{{nowTime}}</p>
     {% else %}
-        <p>F{{nowTimestamp}}</p>
+        <p>F{{nowTime}}</p>
     {% endif %}
   
 
@@ -35,7 +36,7 @@ title: USTC Computational Neuroscience Journal Club
     {% assign summary = site.posts |  where_exp: "post", "post.title == entry.paper"%}
     {% assign summary2 = summary |  where_exp: "post", "post.title == entry.presenter"%}
     {% for summary_page in summary %}
-      {% if summary_page.author == entry.presenter %}
+      {% if summary_page.author == "Pinjie Li" %}
       <p>{{ summary_page.title }}</p>
       {% endif %}
     {% endfor %}
