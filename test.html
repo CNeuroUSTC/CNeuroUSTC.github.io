@@ -1,0 +1,39 @@
+---
+layout: default
+title: USTC Computational Neuroscience Journal Club
+---
+
+<div id="content" role="main">
+
+  <p class="section-title">
+    <h2>Test</h2>
+  </p>
+  
+    {% comment %} convert our dates to Number of seconds since 1970-01-01 00:00:00 UTC {% endcomment %} 
+    {% assign dateStart = '2021-11-17 10:00:00' | date: '%s' %} 
+    {% assign nowTimestamp = 'now' | date: '%s' %} 
+       
+    {% comment %} difference in seconds {% endcomment %} 
+    {% assign diffSeconds = nowTimestamp | minus: dateStart %} 
+    <p>difference in Seconds = {{ diffSeconds }}</p>
+    
+    {% comment %} difference in days {% endcomment %} 
+    {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}    
+    <p>difference in days = {{ diffDays }}</p> 
+    {% if diffSeconds > 0 %}
+        <p>True!</p>
+    {% else %}
+        <p>False!</p>
+    {% endif %}
+  
+  <ul>
+    {% for post in site.pages %}
+        <li>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <!-- {{ post.excerpt }} -->
+        <p>{{ post.date | date_to_string }} - {{ post.author }}</p>
+        </li>
+    {% endfor %}
+    </ul>
+
+</div><!-- #content -->
