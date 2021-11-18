@@ -41,7 +41,7 @@ you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chr
 #### **[所有Theory JC文献](https://www.jianguoyun.com/p/DaSTMQoQm_iCChjyqZwE)**
 
 #### **I.数学知识**
-- [1.0 概率论]（https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Theory_JC_Summary/Normal distribution.md)
+- [1.0 概率论](https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Theory_JC_Summary/Normal distribution.md)
   - 1.1 一元正态分布
   - 1.2 二元正态分布
   - 1.3 n元正态分布
@@ -78,7 +78,7 @@ you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chr
 3. Path Integrate
 4. Tutorial on Variational Autoencoders (VAE)
 
-<h4 id="#1"><b>III. 2020年秋季学期</b></h4>
+<h4 id="1"><b>III. 2020年秋季学期</b></h4>
 
 1. Chaos in Random Neural Networks H. Sompolinsky, A. Crisanti, and H. J. Sommers
 2. Generating Coherent Patterns of Activity from Chaotic Neural Networks,David Sussillo
@@ -87,12 +87,12 @@ you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chr
 5. Path Integral Approach to Random Neural Networks A. Crisanti, H. Sompolinsky
 6. Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks Francesca Mastrogiuseppe, Srdjan Ostojic
 
-<h4 id="#2"><b>IV. 2021年春季学期</b></h4>
+<h4 id="2"><b>IV. 2021年春季学期</b></h4>
 
 1. Tutorial on Variational Autoencoders, Carl Doersch
 2. Theoretical and Computational Neuroscience Summer School
 3. Neural Dynamics as Sampling: A Model for Stochastic Computation in Recurrent Networks of Spiking Neurons, Lars Buesing, Johannes Bill
 
-<h4 id="#3"><b>V. 2021年秋季学期</b></h4>
+<h4 id="3"><b>V. 2021年秋季学期</b></h4>
 
-<h4 id="#4"><b>VI. 2022年春季学期</b></h4>
+<h4 id="4"><b>VI. 2022年春季学期</b></h4>

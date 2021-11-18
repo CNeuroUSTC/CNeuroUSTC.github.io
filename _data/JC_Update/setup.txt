@@ -1,4 +1,0 @@
-pyqt5
-pyqt5-tools
-webbrowser
-ruamel.yaml
