@@ -13,7 +13,7 @@ $$
 上述积分是方差$\mu$和联合概率密度$f(x,y)$中四个参数的函数，若满足$lim_{(x,y)→∞} g(x,y)f(x,y)=0$，则
 
 $$
-\frac{∂^n I(μ)}{∂μ^n}=\int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}\frac{∂^{2n} g(x,y)}{∂x^n ∂y^n} f(x,y)\text{d}x\text{d}y)=E[\frac{∂^{2n} g(x,y)}{∂x^n ∂y^n }]
+\frac{∂^n I(μ)}{∂μ^n}=\int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}\frac{∂^{2n} g(x,y)}{∂x^n ∂y^n} f(x,y)\text{d}x\text{d}y=E[\frac{∂^{2n} g(x,y)}{∂x^n ∂y^n }]
 $$
 
 #### ***Reference***
