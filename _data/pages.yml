@@ -2,13 +2,13 @@
   url: /
 
 - name: Suggested papers
-  url: /suggested_reading.html
+  url: /suggested_reading
 
 - name: Summary
-  url: /summary.html
+  url: /summary
 
 - name: Theory JC Notes
-  url: /theory_JC_notes.html
+  url: /theory-jc-notes
 
 - name: WenLab HomePage
   url: http://www.wenlab.org/
