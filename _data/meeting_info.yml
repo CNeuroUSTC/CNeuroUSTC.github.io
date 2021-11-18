@@ -11,7 +11,7 @@
   paper: "Genome manipulation using CRISPR/Cas9 technology in C. elegans"
   url: "http://staff.ustc.edu.cn/~sguang/pdf/CRISPR%20workshop_20211012_2.pdf"
   pdf: "https://www.jianguoyun.com/p/DRu5J4AQm_iCChjbnJwE"
-  authors: Shouhuong Guang, Xiangyang Chen <br> ( <a herf="https://journals.biologists.com/dev/article/142/24/4374/47136/The-auxin-inducible-degradation-AID-system-enables">ralated paper link</a>, <a herf="https://www.jianguoyun.com/p/DbJX6cYQm_iCChixwpwE">ralated paper pdf</a> )
+  authors: Shouhuong Guang, Xiangyang Chen ( <a href="https://journals.biologists.com/dev/article/142/24/4374/47136/The-auxin-inducible-degradation-AID-system-enables">ralated paper link</a>, <a href="https://www.jianguoyun.com/p/DbJX6cYQm_iCChixwpwE">ralated paper pdf</a> )
   location: "To Be Determined"
 
 - presenter: Pinjie Li
