@@ -52,4 +52,5 @@ roomM: 208
 roomMurl: https://map.baidu.com/search/中国科学技术大学(西校区)-生命科学大楼/@13054067.545,3720295.44,19z?querytype=s&da_src=shareurl&wd=中国科学技术大学(西校区)-生命科学大楼&c=127&src=0&wd2=合肥市蜀山区&pn=0&sug=1&l=13&b=(13043472.77821802,3712418.4285550946;13063946.357629184,3730135.2423363887)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&sug_forward=f2f7c92a9921ecdbb54f5426&device_ratio=2
 
 collections:
-  - theory-jc-notes
+  theory-jc-notes:
+    output: true
