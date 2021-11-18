@@ -27,7 +27,7 @@ title: USTC Computational Neuroscience Journal Club
         <p>F{{nowTime}}</p>
     {% endif %}
   
-
+{% comment %}
   {% for entry in site.data.meeting_info %}
     {% assign summary = site.posts |  where: "title", entry.paper%}
     {% for summary_page in summary %}
@@ -38,8 +38,9 @@ title: USTC Computational Neuroscience Journal Club
       {% endif %}
     {% endfor %}
   {% endfor %}
+{% endcomment %}
 
-  {% comment %}
+
   <ul>
     {% for post in site.pages %}
         <li>
@@ -49,6 +50,5 @@ title: USTC Computational Neuroscience Journal Club
         </li>
     {% endfor %}
     </ul>
-    {% endcomment %}
 
 </div><!-- #content -->
