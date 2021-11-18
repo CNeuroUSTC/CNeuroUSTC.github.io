@@ -29,7 +29,7 @@ You can open this [Markdown 简明语法手册](https://www.zybuluo.com/mdeditor
 and [Markdown 高阶语法手册](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-%E9%AB%98%E9%98%B6%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C)
 to look up the Markdown User Guide. 
 If you find that the formula you are looking at is in source form, 
-you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod")
+you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod)
 
 
 #### **目录**
@@ -43,7 +43,7 @@ you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chr
 
 #### **I.数学知识**
 
-- [1.0 概率论](https://{{site.url}}/2021/11/18/Normal-distribution.html)
+- [1.0 概率论]({% link _theory-jc-notes/Normal distribution.md %})
   - 1.1 一元正态分布
   - 1.2 二元正态分布
   - 1.3 n元正态分布
@@ -60,17 +60,17 @@ you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chr
   - 3.2
   - 3.3
 
-- [4.0 采样方法](https://{{site.url}}/2021/11/18/Sampling-method.html)
+- [4.0 采样方法]({% link _theory-jc-notes/Sampling method.md %})
   - 4.1
   - 4.2
   - 4.3
 
 - 5.0 稳定性分析
   - 5.1 一维不动点及其稳定性
-  - [5.2 二维不动点和极限环](https://{{site.url}}/2021/11/18/Fixed-point-and-limit-cycles-2D.html)
+  - [5.2 二维不动点和极限环]({% link _theory-jc-notes/Fixed point and limit cycles 2D.md %})
 
 - 其它定理
-  - [Price's theorem](https://{{site.url}}/2021/11/18/Price's-theorem.html)
+  - [Price's theorem]({% link _theory-jc-notes/Price's theorem.md %})
 
 
 #### **II. 专题讨论**
