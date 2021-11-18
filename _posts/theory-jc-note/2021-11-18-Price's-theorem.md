@@ -4,11 +4,7 @@ author: Rongkang Xiong
 title: Price’s theorem
 ---
 
-两个联合正态分布的随机变量(x,y)
-
-联合概率密度 $f(x,y)$，方差 $\mu=\overline{x\cdot y}-\overline{x}\cdot\bar{y}$，给定任意函数 $g(x,y)$
-
-期望:
+两个联合正态分布的随机变量$(x,y)$, 其联合概率密度为 $f(x,y)$，方差 $\mu=\overline{x\cdot y}-\overline{x}\cdot\bar{y}$，给定任意函数 $g(x,y)$，则有期望:
 
 $$
 I=E[g(x,y)]=\int_{-\infty}^{+\infty}\int_{-\infty}^{+\infty}g(x,y)f(x,y)\text{d}x\text{d}y
