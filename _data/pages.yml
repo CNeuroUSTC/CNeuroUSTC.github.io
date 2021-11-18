@@ -1,12 +1,17 @@
 - name: Overview
   url: /
-- name: Wiki
-  url: https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/wiki
+
 - name: Suggested papers
   url: /suggested_reading.html
-- name: Theory JC Notes
-  url: /theory_JC_notes.html
+
 - name: Summary
   url: /summary.html
+
+- name: Theory JC Notes
+  url: /theory_JC_notes.html
+
 - name: WenLab HomePage
   url: http://www.wenlab.org/
+
+- name: Github Wiki
+  url: https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/wiki
