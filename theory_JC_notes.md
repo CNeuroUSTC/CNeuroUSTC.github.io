@@ -41,7 +41,7 @@ you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chr
 #### **[所有Theory JC文献](https://www.jianguoyun.com/p/DaSTMQoQm_iCChjyqZwE)**
 
 #### **I.数学知识**
-- [1.0 概率论](https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Theory_JC_Summary/Normal distribution.md)
+- [1.0 概率论](https://{{site.url}}2021/11/18/Normal distribution.html)
   - 1.1 一元正态分布
   - 1.2 二元正态分布
   - 1.3 n元正态分布
@@ -58,17 +58,17 @@ you should Install the Chrome plug-in: [MathJax 3 Plugin for Github](https://chr
   - 3.2
   - 3.3
 
-- [4.0 采样方法](https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Theory_JC_Summary/Sampling method.md)
+- [4.0 采样方法](https://https://{{site.url}}2021/11/18/Sampling method.html)
   - 4.1
   - 4.2
   - 4.3
 
 - 5.0 稳定性分析
   - 5.1 一维不动点及其稳定性
-  - [5.2 二维不动点和极限环](https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Theory_JC_Summary/Fixed point and limit cycles-2D.md)
+  - [5.2 二维不动点和极限环](https://https://{{site.url}}2021/11/18/Fixed point and limit cycles-2D.html)
 
 - 其它定理
-  - [Price's theorem](https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/blob/master/Theory_JC_Summary/Price's theorem.md)
+  - [Price's theorem](https://https://{{site.url}}2021/11/18/Price's theorem.html)
 
 
 #### **II. 专题讨论**
