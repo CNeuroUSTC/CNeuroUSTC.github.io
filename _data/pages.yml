@@ -13,5 +13,5 @@
 - name: WenLab HomePage
   url: http://www.wenlab.org/
 
-- name: Github Wiki
-  url: https://github.com/CNeuroUSTC/CNeuroUSTC.github.io/wiki
+- name: Website Source Code
+  url: https://github.com/CNeuroUSTC/CNeuroUSTC.github.io
