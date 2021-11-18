@@ -39,7 +39,6 @@ footer:
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
 # permalink: pretty
 
 # Plugins
@@ -53,3 +52,17 @@ roomMurl: https://map.baidu.com/search/中国科学技术大学(西校区)-生�
 collections:
   theory-jc-notes:
     output: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "summary"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "theory-jc-notes" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "note"

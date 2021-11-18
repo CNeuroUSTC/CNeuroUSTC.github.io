@@ -1,5 +1,4 @@
 ---
-layout: post
 author: Jingyuan Ji
 title: A virtual reality system to analyze neural activity and behavior in adult zebrafish
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 author: Xiangyu Zhang
 title: Larval Zebrafish Use Olfactory Detection of Sodium and Chloride to Avoid Salt Water
 ---

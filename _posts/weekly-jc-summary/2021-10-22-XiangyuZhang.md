@@ -1,5 +1,4 @@
 ---
-layout: post
 author: Xiangyu Zhang
 title: A neuronal circuit that generates the temporal motor sequence for the defensive response in zebrafish larvae
 ---
