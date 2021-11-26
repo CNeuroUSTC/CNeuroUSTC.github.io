@@ -60,9 +60,9 @@
 
     <!-- paper -->
     <td>
-      <p><i>{{entry.paper}}</i>
+      <p><i>{{entry.paper}}.</i>
       {% unless entry.authors == "None" %}
-      <i>. </i><br>{{entry.authors}} 
+      <br>{{entry.authors}} 
       {% endunless %}
       {% unless entry.url == "None" %}
       ( <a href="{{entry.url}}">link</a>
