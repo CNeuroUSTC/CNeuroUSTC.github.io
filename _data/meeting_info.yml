@@ -1,10 +1,10 @@
 - presenter: Yuxiang Wu
   date: 2021/12/03, 4:00pm
-  paper: <a href="https://github.com/Wenlab/Administration/issues/80">Vote Here!</a>
-  url: "None"
-  pdf: "None"
-  authors: "None"
-  location: "To Be Determined"
+  paper: "Attention Mechanisms in Computer Vision: A Survey"
+  url: "https://arxiv.org/abs/2111.07624"
+  pdf: "https://www.jianguoyun.com/p/DZnI1QwQm_iCChi2kp4E"
+  authors: "Meng-Hao Guo, Tian-Xing Xu, Jiang-Jiang Liu, Zheng-Ning Liu, Peng-Tao Jiang, Tai-Jiang Mu, Song-Hai Zhang, Ralph R. Martin, Ming-Ming Cheng, Shi-Min Hu"
+  location: "329A"
 
 - presenter: Qi Liu
   date: 2021/12/03, 4:00pm
@@ -12,7 +12,7 @@
   url: "None"
   pdf: "None"
   authors: "None"
-  location: "To Be Determined"
+  location: "329A"
 
 - presenter: Rong Wei
   date: 2021/11/29, 7:00pm
@@ -24,11 +24,19 @@
 
 - presenter: Ping Wang
   date: 2021/11/26, 4:00pm
-  paper: <a href="https://github.com/Wenlab/Administration/issues/79">Vote Here!</a>
-  url: "None"
-  pdf: "None"
-  authors: "None"
-  location: "To Be Determined"
+  paper: A neural circuit for flexible control of persistent behavioral states
+  url: "https://elifesciences.org/articles/62889"
+  pdf: "https://www.jianguoyun.com/p/Dc6mhlwQm_iCChjlkZ4E"
+  authors: "Ni Ji, Gurrein K Madan, Guadalupe I Fabre, Alyssa Dayan, Casey M Baker, Talya S Kramer, Ijeoma Nwabudike, Steven W Flavell"
+  location: "329A"
+
+- presenter: Ping Wang
+  date: 2021/11/26, 4:00pm
+  paper: Optogenetics in Caenorhabditis elegans
+  url: "https://link.springer.com/chapter/10.1007%2F978-981-15-8763-4_20"
+  pdf: "https://www.jianguoyun.com/p/DaOV3lQQm_iCChiYkp4E"
+  authors: "Yuki Tsukada, Ikue Mori"
+  location: "329A"
 
 - presenter: Jingyuan Ji
   date: 2021/11/26, 4:00pm
@@ -36,7 +44,7 @@
   url: "None"
   pdf: "None"
   authors: "None"
-  location: "To Be Determined"
+  location: "329A"
 
 - presenter: Qi Liu
   date: 2021/11/19, 4:00pm
