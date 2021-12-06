@@ -1,3 +1,11 @@
+- presenter: Zezhen Wang
+  date: 2021/12/17, 4:00pm
+  paper: <a href="https://github.com/Wenlab/Administration/issues/81">Vote Here!</a>
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "To Be Determined"
+
 - presenter: Yuxiang Wu
   date: 2021/12/17, 4:00pm
   paper: "Channel polarization: A method for constructing capacity-achieving codes for symmetric binary-input memoryless channels"
@@ -7,12 +15,28 @@
   location: "To Be Determined"
 
 - presenter: Daguang Li
-  date: 2021/12/06, 7:00pm
+  date: 2021/12/13, 7:00pm
   paper: "Neural optimal feedback control with local learning rules"
   url: "https://arxiv.org/abs/2111.06920"
   pdf: "https://www.jianguoyun.com/p/DedpmnAQm_iCChjZ0J8E"
   authors: "Johannes Friedrich, Siavash Golkar, Shiva Farashahi, Alexander Genkin, Anirvan M. Sengupta, Dmitri B. Chklovskii"
   location: "208"
+
+- presenter: Anqi Yu
+  date: 2021/12/10, 4:00pm
+  paper: <a href="https://github.com/Wenlab/Administration/issues/82">Vote Here!</a>
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "To Be Determined"
+
+- presenter: Ping Wang
+  date: 2021/12/10, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "To Be Determined"
 
 - presenter: Yuxiang Wu
   date: 2021/12/03, 4:00pm
