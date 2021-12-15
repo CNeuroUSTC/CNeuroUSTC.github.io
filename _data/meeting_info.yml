@@ -1,9 +1,33 @@
-- presenter: Zezhen Wang
-  date: 2021/12/17, 4:00pm
-  paper: <a href="https://github.com/Wenlab/Administration/issues/81">Vote Here!</a>
+- presenter: Daguang Li
+  date: 2021/12/24, 4:00pm
+  paper: <a href="https://github.com/Wenlab/Administration/issues/83">Vote Here!</a>
   url: "None"
   pdf: "None"
   authors: "None"
+  location: "To Be Determined"
+
+- presenter: Anqi Yu
+  date: 2021/12/24, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "To Be Determined"
+
+- presenter: Daguang Li
+  date: 2021/12/20, 7:00pm
+  paper: "Neural optimal feedback control with local learning rules (Part II)"
+  url: "https://arxiv.org/abs/2111.06920"
+  pdf: "https://www.jianguoyun.com/p/DedpmnAQm_iCChjZ0J8E"
+  authors: "Johannes Friedrich, Siavash Golkar, Shiva Farashahi, Alexander Genkin, Anirvan M. Sengupta, Dmitri B. Chklovskii"
+  location: "208"
+
+- presenter: Zezhen Wang
+  date: 2021/12/17, 4:00pm
+  paper: Impact of Network Structure and Cellular Response on Spike Time Correlations
+  url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002408"
+  pdf: "https://www.jianguoyun.com/p/DfmGFGoQm_iCChiHz6IE"
+  authors: "Trousdale J, Hu Y, Shea-Brown E, Josić K"
   location: "To Be Determined"
 
 - presenter: Yuxiang Wu
@@ -16,7 +40,7 @@
 
 - presenter: Daguang Li
   date: 2021/12/13, 7:00pm
-  paper: "Neural optimal feedback control with local learning rules"
+  paper: "Neural optimal feedback control with local learning rules (Part I)"
   url: "https://arxiv.org/abs/2111.06920"
   pdf: "https://www.jianguoyun.com/p/DedpmnAQm_iCChjZ0J8E"
   authors: "Johannes Friedrich, Siavash Golkar, Shiva Farashahi, Alexander Genkin, Anirvan M. Sengupta, Dmitri B. Chklovskii"
