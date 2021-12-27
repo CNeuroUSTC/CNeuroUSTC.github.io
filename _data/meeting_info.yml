@@ -6,13 +6,37 @@
   authors: "None"
   location: "To Be Determined"
 
-- presenter: Daguang Li
-  date: 2021/12/24, 4:00pm
-  paper: <a href="https://github.com/Wenlab/Administration/issues/83">Vote Here!</a>
+- presenter: Quan Wen
+  date: 2021/01/07, 4:00pm
+  paper: "Work Report"
   url: "None"
   pdf: "None"
   authors: "None"
   location: "To Be Determined"
+
+- presenter: Runhui Li
+  date: 2021/12/31, 4:00pm
+  paper: <a href="https://github.com/Wenlab/Administration/issues/85">Vote Here!</a>
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "To Be Determined"
+
+- presenter: Zezhen Wang
+  date: 2021/12/31, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "To Be Determined"
+
+- presenter: Daguang Li
+  date: 2021/12/24, 4:00pm
+  paper: Brain-wide mapping of neural activity controlling zebrafish exploratory locomotion
+  url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841782/"
+  pdf: "https://www.jianguoyun.com/p/DVtMqYgQm_iCChjxnKUE"
+  authors: "Dunn TW, Mu Y, Narayan S, Randlett O, Naumann EA, Yang CT, Schier AF, Freeman J, Engert F, Ahrens MB"
+  location: "329A"
 
 - presenter: Anqi Yu
   date: 2021/12/24, 4:00pm
@@ -20,7 +44,7 @@
   url: "None"
   pdf: "None"
   authors: "None"
-  location: "To Be Determined"
+  location: "329A"
 
 - presenter: Daguang Li
   date: 2021/12/20, 7:00pm
