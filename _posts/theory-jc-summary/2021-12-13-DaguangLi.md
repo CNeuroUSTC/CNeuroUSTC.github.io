@@ -1,6 +1,6 @@
 ---
 author: Daguang Li
-title: eural optimal feedback control with local learning rules (Part I)
+title: Neural optimal feedback control with local learning rules (Part I)
 ---
 
 You can see the note about Kalman Filter [Here](https://www.jianguoyun.com/p/DVkqH10Qm_iCChixzqIE).
