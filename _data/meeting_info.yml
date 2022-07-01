@@ -1,3 +1,139 @@
+- presenter: Ping Wang
+  date: 2022/07/01, 4:00pm
+  paper: "Paper"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+
+- presenter: Zezhen Wang
+  date: 2022/07/01, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+
+- presenter: Anqi Yu
+  date: 2022/06/24, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+  
+- presenter: Jingyuan Ji
+  date: 2022/06/17, 4:00pm
+  paper: "Paper"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+
+- presenter: Ping Wang
+  date: 2022/06/17, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+
+- presenter: Yubin Wu
+  date: 2022/06/10, 4:00pm
+  paper: "Paper"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+
+- presenter: Jingyuan Ji
+  date: 2022/06/10, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+
+- presenter: Yukun Cheng
+  date: 2022/06/06, 2:00pm
+  paper: "Rehearsal"
+  url: None
+  pdf: None
+  authors: None
+  location: "531"
+
+- presenter: Pinjie Li
+  date: 2022/05/27, 4:00pm
+  paper: "Paper"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+
+- presenter: Qi Liu
+  date: 2022/05/27, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329A"
+
+- presenter: Yubin Wu
+  date: 2022/05/20, 4:00pm
+  paper: "Rehearsal"
+  url: None
+  pdf: None
+  authors: None
+  location: "Medical Building, Meeting Room on the 5th Floor"
+
+- presenter: Xiangyu Zhang
+  date: 2022/05/20, 4:00pm
+  paper: "Rehearsal"
+  url: None
+  pdf: None
+  authors: None
+  location: "Medical Building, Meeting Room on the 5th Floor"
+
+- presenter: Jing Huo
+  date: 2022/05/13, 4:00pm
+  paper: "Rehearsal"
+  url: None
+  pdf: None
+  authors: None
+  location: "Medical Building, Meeting Room on the 5th Floor"
+
+- presenter: Anqi Yu
+  date: 2022/05/04, 12:00am
+  paper: "Rehearsal"
+  url: None
+  pdf: None
+  authors: None
+  location: "329B"
+  
+- presenter: Yuxiang Wu
+  date: 2022/05/04, 12:00am
+  paper: "Rehearsal"
+  url: None
+  pdf: None
+  authors: None
+  location: "329B"
+
+- presenter: Xiangyu Zhang
+  date: 2022/04/29, 4:00pm
+  paper: "Paper"
+  url: None
+  pdf: None
+  authors: None
+  location: "Medical Building, Meeting Room on the 5th Floor"
+
+- presenter: Kexin Qi
+  date: 2022/04/29, 4:00pm
+  paper: "Work Report"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "Medical Building, Meeting Room on the 5th Floor"
+
 - presenter: Qi Liu
   date: 2022/04/15, 4:00pm
   paper: NMDAR-mediated modulation of gap junction circuit regulates olfactory learning in C. elegans
