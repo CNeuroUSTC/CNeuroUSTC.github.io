@@ -13,6 +13,14 @@
   pdf: "None"
   authors: "Anton Filipchuk et al."
   location: "329A"
+  
+- presenter: DaGuang Li
+  date: 2023/02/10, 4:00pm
+  paper: "An approximate line attractor in the hypothalamus encodes an aggressive state"
+  url: "https://pubmed.ncbi.nlm.nih.gov/36608653/"
+  pdf: "None"
+  authors: "Aditya Nair et al."
+  location: "Medical Building, Meeting Room on the 5th Floor"
 
 - presenter: Ping Wang
   date: 2022/07/01, 4:00pm
