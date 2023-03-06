@@ -14,13 +14,85 @@
   authors: "Anton Filipchuk et al."
   location: "329A"
   
-- presenter: DaGuang Li
+- presenter: Daguang Li
   date: 2023/02/10, 4:00pm
   paper: "An approximate line attractor in the hypothalamus encodes an aggressive state"
   url: "https://pubmed.ncbi.nlm.nih.gov/36608653/"
   pdf: "None"
   authors: "Aditya Nair et al."
   location: "Medical Building, Meeting Room on the 5th Floor"
+  
+- presenter: Guodong Tan
+  date: 2023/01/13, 4:00pm
+  paper: "Brainstem circuits encoding start, speed, and duration of swimming in adult zebrafish"
+  url: "https://www.sciencedirect.com/science/article/pii/S0896627322009941"
+  pdf: "None"
+  authors: "Eva M. Berg et al."
+  location: "Online"
+
+- presenter: Anqi Yu
+  date: 2022/12/23, 4:00pm
+  paper: "Motor learning selectively strengthens cortical and striatal synapses of motor engram neurons"
+  url: "https://pubmed.ncbi.nlm.nih.gov/35809573/"
+  pdf: "None"
+  authors: "Fuu-Jiun Hwang et al."
+  location: "Online"
+
+- presenter: Ping Wang
+  date: 2022/12/16, 4:00pm
+  paper: "Neural dynamics of phoneme sequences reveal position-invariant code for content and order"
+  url: "https://www.nature.com/articles/s41467-022-34326-1"
+  pdf: "None"
+  authors: "Laura Gwilliams et al."
+  location: "Online"
+
+- presenter: Jingyuan Ji
+  date: 2022/12/09, 4:00pm
+  paper: "Brain-wide visual habituation networks in wild type and fmr1 zebrafish"
+  url: "https://www.nature.com/articles/s41467-022-28299-4"
+  pdf: "None"
+  authors: "Emmanuel Marquez-Legorreta et al."
+  location: "329A"
+
+- presenter: Yixuan Li
+  date: 2022/12/02, 4:00pm
+  paper: "Walking is like slithering: A unifying, data-driven view of locomotion"
+  url: "https://www.pnas.org/doi/10.1073/pnas.2113222119"
+  pdf: "None"
+  authors: "Dan Zhao et al."
+  location: "329A"
+
+- presenter: Yuxiang Wu
+  date: 2022/11/25, 4:00pm
+  paper: "Walking is like slithering: A unifying, data-driven view of locomotion"
+  url: "https://www.pnas.org/doi/10.1073/pnas.2113222119"
+  pdf: "None"
+  authors: "Dan Zhao et al."
+  location: "329A"
+
+- presenter: Qi Liu
+  date: 2022/11/18, 4:00pm
+  paper: "Cerebellar contributions to a brainwide network for flexible behavior"
+  url: "https://www.biorxiv.org/content/10.1101/2021.12.07.471685v1"
+  pdf: "None"
+  authors: "Jessica L. Verpeut et al."
+  location: "329A"
+
+- presenter: Jing Huo
+  date: 2022/11/11, 4:00pm
+  paper: "In vivo direct imaging of neuronal activity at high temporospatial resolution"
+  url: "https://www.science.org/doi/10.1126/science.abh4340"
+  pdf: "None"
+  authors: "Phan Tan Toi et al."
+  location: "329A"
+
+- presenter: Yuming Chai
+  date: 2022/10/28, 4:00pm
+  paper: "A brainstem integrator for self-localization and positional homeostasis"
+  url: "https://www.sciencedirect.com/science/article/pii/S0092867422014660"
+  pdf: "None"
+  authors: "En Yang et al."
+  location: "329A"
 
 - presenter: Ping Wang
   date: 2022/07/01, 4:00pm
