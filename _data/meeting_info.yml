@@ -102,7 +102,23 @@
   authors: "LI YU et al."
   location: "329A"
 
-- presenter: Runhui Li
+- presenter: Chen Shen
+  date: 2022/09/30, 4:00pm
+  paper: "Self-organized reactivation maintains and reinforces memories despite synaptic turnover"
+  url: "https://elifesciences.org/articles/43717"
+  pdf: "None"
+  authors: "Michael Jan Fauth et al."
+  location: "329A"
+
+- presenter: Rongkang Xiong
+  date: 2022/09/23, 4:00pm
+  paper: "Bidirectionally connected cores in a mouse connectome: towards extracting the brain subnetworks essential for consciousness"
+  url: "https://academic.oup.com/cercor/article/33/4/1383/6647613"
+  pdf: "None"
+  authors: "J Kitazono et al."
+  location: "329A"
+
+  - presenter: Runhui Li
   date: 2022/09/09, 4:00pm
   paper: "Natural switches in behaviour rapidly modulate hippocampal coding"
   url: "https://www.nature.com/articles/s41586-022-05112-2"
@@ -116,14 +132,6 @@
   url: "https://elifesciences.org/articles/76577"
   pdf: "None"
   authors: "Luca Mazzucato et al."
-  location: "329A"
-
-- presenter: Rongkang Xiong
-  date: 2022/09/23, 4:00pm
-  paper: "Bidirectionally connected cores in a mouse connectome: towards extracting the brain subnetworks essential for consciousness"
-  url: "https://academic.oup.com/cercor/article/33/4/1383/6647613"
-  pdf: "None"
-  authors: "J Kitazono et al."
   location: "329A"
 
 - presenter: Zezhen Wang
