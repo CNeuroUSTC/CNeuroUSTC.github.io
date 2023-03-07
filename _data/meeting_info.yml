@@ -1,3 +1,11 @@
+- presenter: Runhui Li
+  date: 2023/03/03, 4:00pm
+  paper: "Natural switches in behaviour rapidly modulate hippocampal coding"
+  url: "https://www.nature.com/articles/s41586-022-05112-2"
+  pdf: "None"
+  authors: "Ayelet Sarel et al."
+  location: "329A"
+
 - presenter: Chen Zheng
   date: 2023/03/03, 4:00pm
   paper: "Pyramidal cell types drive functionally distinct cortical activity patterns during decision-making"
@@ -92,6 +100,14 @@
   url: "https://www.sciencedirect.com/science/article/pii/S0092867422014660"
   pdf: "None"
   authors: "En Yang et al."
+  location: "329A"
+
+- presenter: Daguang Li
+  date: 2022/09/02, 4:00pm
+  paper: "Neural mechanisms underlying the temporal organization of naturalistic animal behavior"
+  url: "https://elifesciences.org/articles/76577"
+  pdf: "None"
+  authors: "Luca Mazzucato et al."
   location: "329A"
 
 - presenter: Ping Wang
