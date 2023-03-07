@@ -1,11 +1,3 @@
-- presenter: Runhui Li
-  date: 2022/09/09, 4:00pm
-  paper: "Natural switches in behaviour rapidly modulate hippocampal coding"
-  url: "https://www.nature.com/articles/s41586-022-05112-2"
-  pdf: "None"
-  authors: "Ayelet Sarel et al."
-  location: "329A"
-
 - presenter: Chen Zheng
   date: 2023/03/03, 4:00pm
   paper: "Pyramidal cell types drive functionally distinct cortical activity patterns during decision-making"
@@ -100,6 +92,22 @@
   url: "https://www.sciencedirect.com/science/article/pii/S0092867422014660"
   pdf: "None"
   authors: "En Yang et al."
+  location: "329A"
+
+- presenter: Yuxiang Wu
+  date: 2022/10/21, 4:00pm
+  paper: "Experimental Verification on Steering Flight of Honeybee by Electrical Stimulation"
+  url: "https://spj.science.org/doi/10.34133/2022/9895837#:~:text=The%20existing%20research%20has%20recognized,honeybee%20flight%20initiation%20and%20cessation."
+  pdf: "None"
+  authors: "LI YU et al."
+  location: "329A"
+
+- presenter: Runhui Li
+  date: 2022/09/09, 4:00pm
+  paper: "Natural switches in behaviour rapidly modulate hippocampal coding"
+  url: "https://www.nature.com/articles/s41586-022-05112-2"
+  pdf: "None"
+  authors: "Ayelet Sarel et al."
   location: "329A"
 
 - presenter: Daguang Li
