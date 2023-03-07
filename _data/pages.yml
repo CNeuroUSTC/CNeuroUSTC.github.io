@@ -7,11 +7,11 @@
 - name: Summary
   url: /summary
 
-- name: Theory JC Notes
-  url: /theory-jc-notes
+# - name: Theory JC Notes
+#   url: /theory-jc-notes
 
-- name: WenLab HomePage
+- name: Home Page
   url: http://www.wenlab.org/
 
-- name: Website Source Code
-  url: https://github.com/CNeuroUSTC/CNeuroUSTC.github.io
+# - name: Website Source Code
+#   url: https://github.com/CNeuroUSTC/CNeuroUSTC.github.io
