@@ -110,6 +110,14 @@
   authors: "Michael Jan Fauth et al."
   location: "329A"
 
+- presenter: Rong Wei
+  date: 2022/09/29, 4:00pm
+  paper: "Generative Modeling by Estimating Gradients of the Data Distribution"
+  url: "https://yang-song.net/blog/2021/score/"
+  pdf: "None"
+  authors: "Yang Song et al."
+  location: "None"
+
 - presenter: Rongkang Xiong
   date: 2022/09/23, 4:00pm
   paper: "Bidirectionally connected cores in a mouse connectome: towards extracting the brain subnetworks essential for consciousness"
@@ -118,7 +126,15 @@
   authors: "J Kitazono et al."
   location: "329A"
 
-  - presenter: Runhui Li
+- presenter: Qiqi Xian
+  date: 2022/09/22, 4:00pm
+  paper: "What are Diffusion Models?"
+  url: "https://lilianweng.github.io/posts/2021-07-11-diffusion-models/"
+  pdf: "None"
+  authors: "Lilian Weng et al."
+  location: "None"
+
+- presenter: Runhui Li
   date: 2022/09/09, 4:00pm
   paper: "Natural switches in behaviour rapidly modulate hippocampal coding"
   url: "https://www.nature.com/articles/s41586-022-05112-2"
@@ -135,12 +151,20 @@
   location: "329A"
 
 - presenter: Zezhen Wang
+  date: 2022/07/28, 4:00pm
+  paper: "Connectome-constrained Latent Variable Model of Whole-Brain Neural Activity"
+  url: "https://openreview.net/forum?id=CJzi3dRlJE-"
+  pdf: "None"
+  authors: "Lu Mi et al."
+  location: "None"
+
+- presenter: Zezhen Wang
   date: 2022/07/22, 4:00pm
   paper: "Flexible Sensorimotor Computations through Rapid Reconfiguration of Cortical Dynamics"
   url: "https://www.sciencedirect.com/science/article/pii/S0896627318304185"
   pdf: "None"
   authors: "Evan D Remington et al."
-  location: "329A"
+  location: "None"
 
 - presenter: Anqi Yu
   date: 2022/07/15, 4:00pm
