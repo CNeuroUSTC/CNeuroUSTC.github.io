@@ -78,6 +78,14 @@
   authors: "Jessica L. Verpeut et al."
   location: "329A"
 
+- presenter: None
+  date: 2022/11/18, 4:00pm, Theory JC
+  paper: "Haim's LesHouches lectures on Machine learning and Statistics Mechanics"
+  url: "https://www.youtube.com/watch?v=sJswk8JhdOk&list=PLEIq5bchE3R2MM_qCYzDS_b4uOZQXdrBj"
+  pdf: "None"
+  authors: "Haim Sompolinsky"
+  location: "None"
+
 - presenter: Jing Huo
   date: 2022/11/11, 4:00pm
   paper: "In vivo direct imaging of neuronal activity at high temporospatial resolution"
@@ -111,7 +119,7 @@
   location: "329A"
 
 - presenter: Rong Wei
-  date: 2022/09/29, 4:00pm
+  date: 2022/09/29, 4:00pm, Theory JC
   paper: "Generative Modeling by Estimating Gradients of the Data Distribution"
   url: "https://yang-song.net/blog/2021/score/"
   pdf: "None"
@@ -127,7 +135,7 @@
   location: "329A"
 
 - presenter: Qiqi Xian
-  date: 2022/09/22, 4:00pm
+  date: 2022/09/22, 4:00pm, Theory JC
   paper: "What are Diffusion Models?"
   url: "https://lilianweng.github.io/posts/2021-07-11-diffusion-models/"
   pdf: "None"
@@ -151,7 +159,7 @@
   location: "329A"
 
 - presenter: Zezhen Wang
-  date: 2022/07/28, 4:00pm
+  date: 2022/07/28, 4:00pm, Theory JC
   paper: "Connectome-constrained Latent Variable Model of Whole-Brain Neural Activity"
   url: "https://openreview.net/forum?id=CJzi3dRlJE-"
   pdf: "None"
