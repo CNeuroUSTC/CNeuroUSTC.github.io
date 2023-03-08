@@ -190,20 +190,20 @@
   authors: "C Xue et al."
   location: "329A"
 
-- presenter: Ping Wang
-  date: 2022/07/01, 4:00pm
-  paper: "A neuronal mechanism for motivational control of behavior"
-  url: "https://www.science.org/doi/10.1126/science.abg7277"
-  pdf: "None"
-  authors: "J. COURTIN et al."
-  location: "329A"
-
 - presenter: Zezhen Wang
   date: 2022/07/01, 4:00pm
   paper: "Work Report"
   url: "None"
   pdf: "None"
   authors: "None"
+  location: "329A"
+
+- presenter: Ping Wang
+  date: 2022/07/01, 4:00pm
+  paper: "A neuronal mechanism for motivational control of behavior"
+  url: "https://www.science.org/doi/10.1126/science.abg7277"
+  pdf: "None"
+  authors: "J. COURTIN et al."
   location: "329A"
 
 - presenter: Anqi Yu
