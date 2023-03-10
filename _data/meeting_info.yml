@@ -1,3 +1,11 @@
+- presenter: Yukun Cheng
+  date: 2023/03/10, 4:00pm
+  paper: "A neural implementation of Wald's sequential probability ratio test"
+  url: "https://pubmed.ncbi.nlm.nih.gov/25661183/"
+  pdf: "None"
+  authors: "Shinichiro Kira et al."
+  location: "Medical Building, 218"
+
 - presenter: Chen Zheng
   date: 2023/03/03, 4:00pm
   paper: "Pyramidal cell types drive functionally distinct cortical activity patterns during decision-making"
