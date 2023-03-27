@@ -135,17 +135,25 @@
   location: "329A"
 
 - presenter: None
-  date: 2022/11/18, 7:00pm, Theory JC
+  date: 2022/11/17, 7:00pm, Theory JC
   paper: "Haim's LesHouches lectures on Machine learning and Statistics Mechanics"
   url: "https://www.youtube.com/watch?v=sJswk8JhdOk&list=PLEIq5bchE3R2MM_qCYzDS_b4uOZQXdrBj"
   pdf: "None"
   authors: "Haim Sompolinsky"
   location: "3A"
 
-- presenter: Jing Huo
+- presenter: Kexin Qi
   date: 2022/11/11, 4:00pm
   paper: "In vivo direct imaging of neuronal activity at high temporospatial resolution"
   url: "https://www.science.org/doi/10.1126/science.abh4340"
+  pdf: "None"
+  authors: "Phan Tan Toi et al."
+  location: "329A"
+
+- presenter: Jing Huo
+  date: 2022/11/04, 4:00pm
+  paper: "Hyperexcitable arousal circuits drive sleep instability during aging"
+  url: "https://pubmed.ncbi.nlm.nih.gov/35201886/"
   pdf: "None"
   authors: "Phan Tan Toi et al."
   location: "329A"
