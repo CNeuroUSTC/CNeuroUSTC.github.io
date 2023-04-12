@@ -1,10 +1,26 @@
+- presenter: Yuxiang Wu
+  date: 2023/04/14, 4:00pm
+  paper: "Flexible brain–computer interfaces"
+  url: "https://www.nature.com/articles/s41928-022-00913-9"
+  pdf: "None"
+  authors: "Xin Tang et al."
+  location: "Comming Soon"
+
+- presenter: Yuxiang Wu
+  date: 2023/04/14, 4:00pm
+  paper: "Tracking neural activity from the same cells during the entire adult life of mice"
+  url: "https://www.nature.com/articles/s41593-023-01267-x"
+  pdf: "None"
+  authors: "Siyuan Zhao et al."
+  location: "Comming Soon"
+
 - presenter: Rongkang Xiong
   date: 2023/04/07, 4:00pm
   paper: "High-resolution image reconstruction with latent diffusion models from human brain activity"
   url: "https://www.biorxiv.org/content/10.1101/2022.11.18.517004v3.abstract"
   pdf: "None"
   authors: "Yu Takagi et al."
-  location: "Comming Soon"
+  location: "329A"
 
 - presenter: None
   date: 2023/04/06, 7:00pm, Theory JC
