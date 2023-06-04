@@ -1,9 +1,49 @@
+- presenter: Rong Wei
+  date: 2023/06/02, 4:00pm
+  paper: "Rehearsal"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "329B"
+
+- presenter: Qi Liu
+  date: 2023/06/02, 4:00pm
+  paper: "Early-life experience reorganizes neuromodulatory regulation of stage-specific behavioral responses during development"
+  url: "https://elifesciences.org/articles/84312"
+  pdf: "None"
+  authors: "Reemy Ali Nasser et al."
+  location: "329B"
+
+- presenter: Guodong Tan
+  date: 2023/05/26, 4:00pm
+  paper: "Incorporating the image formation process into deep learning improves network performance"
+  url: "https://www.nature.com/articles/s41592-022-01652-7"
+  pdf: "None"
+  authors: "Yue Li et al."
+  location: "Online"
+
+- presenter: Jingyuan Ji
+  date: 2023/05/19, 4:00pm
+  paper: "Rehearsal"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "3A103"
+
+- presenter: Anqi Yu
+  date: 2023/05/19, 4:00pm
+  paper: "Rehearsal"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "3A103"
+
 - presenter: Ping Wang
   date: 2023/05/12, 4:00pm
   paper: "A proprioceptive feedback circuit drives Caenorhabditis elegans locomotor adaptation through dopamine signaling"
   url: "https://www.pnas.org/doi/abs/10.1073/pnas.2219341120"
   pdf: "None"
-  authors: "None"
+  authors: "Hongfei Ji et al."
   location: "Online"
 
 - presenter: Daguang Li
