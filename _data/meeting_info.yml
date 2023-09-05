@@ -1,10 +1,26 @@
 - presenter: Yixuan Li
-  date: 2023/09/08, 4:00pm
+  date: 2023/09/22, 4:00pm
   paper: "Coming Soon"
   url: "Coming Soon"
   pdf: "None"
   authors: "Coming Soon"
   location: "Coming Soon"
+
+- presenter: Yukun Cheng
+  date: 2023/09/15, 4:00pm
+  paper: "Coming Soon"
+  url: "Coming Soon"
+  pdf: "None"
+  authors: "Coming Soon"
+  location: "Coming Soon"
+
+- presenter: Kexin Qi
+  date: 2023/09/08, 4:00pm
+  paper: "Neural dynamics and architecture of the heading direction circuit in zebrafish"
+  url: "https://www.nature.com/articles/s41593-023-01308-5"
+  pdf: "None"
+  authors: "Luigi Petrucco et al."
+  location: "3A107"
 
 - presenter: Zezhen Wang
   date: 2023/07/28, 4:00pm
