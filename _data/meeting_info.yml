@@ -14,6 +14,22 @@
   authors: "Coming Soon"
   location: "Coming Soon"
 
+- presenter: None
+  date: 2023/10/06, 4:00pm
+  paper: "None, because of the National Day"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "None"
+
+- presenter: None
+  date: 2023/09/29, 4:00pm
+  paper: "None, because of the Mid-Autumn Festival"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "None"
+
 - presenter: Yixuan Li
   date: 2023/09/22, 4:00pm, Theory JC
   paper: "Clustering by fast search and find of density peaks"
