@@ -1,10 +1,26 @@
+- presenter: None
+  date: 2023/11/03, 4:00pm
+  paper: "None, No Reason"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "None"
+
+- presenter: None
+  date: 2023/10/27, 4:00pm
+  paper: "None, No Reason"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "None"
+
 - presenter: Yukun Cheng
   date: 2023/10/20, 4:00pm
-  paper: "Coming Soon"
-  url: "Coming Soon"
+  paper: "Improving animal behaviors through a neural interface with deep reinforcement learning"
+  url: "https://www.biorxiv.org/content/10.1101/2022.09.19.508590v2"
   pdf: "None"
-  authors: "Coming Soon"
-  location: "Coming Soon"
+  authors: "Chenguang Li et al."
+  location: "3A110"
 
 - presenter: Qionglin Yu
   date: 2023/10/13, 4:00pm
