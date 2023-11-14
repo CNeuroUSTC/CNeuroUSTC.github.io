@@ -1,6 +1,22 @@
+- presenter: Kexin Qi
+  date: 2023/11/17, 4:00pm
+  paper: "Radial astrocyte synchronization modulates the visual system during behavioral-state transitions"
+  url: "https://pubmed.ncbi.nlm.nih.gov/37863038/"
+  pdf: "None"
+  authors: "Alejandro Uribe-Arias et al."
+  location: "Coming Soon"
+
+- presenter: Yuming Chai
+  date: 2023/11/10, 4:00pm
+  paper: "Volitional activation of remote place representations with a hippocampal brain–machine interface"
+  url: "https://www.science.org/doi/10.1126/science.adh5206"
+  pdf: "None"
+  authors: "Chongxi Lai et al."
+  location: "3A107"
+
 - presenter: None
   date: 2023/11/03, 4:00pm
-  paper: "None, No Reason"
+  paper: "None"
   url: "None"
   pdf: "None"
   authors: "None"
@@ -8,7 +24,7 @@
 
 - presenter: None
   date: 2023/10/27, 4:00pm
-  paper: "None, No Reason"
+  paper: "None"
   url: "None"
   pdf: "None"
   authors: "None"
