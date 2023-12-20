@@ -1,17 +1,41 @@
+# - presenter: Yixuan Li
+#   date: 2024/01/19, 4:00pm
+#   paper: "None"
+#   url: "None"
+#   pdf: "None"
+#   authors: "None"
+#   location: "Coming Soon"
+
+# - presenter: Yukun Cheng
+#   date: 2024/01/12, 4:00pm
+#   paper: "None"
+#   url: "None"
+#   pdf: "None"
+#   authors: "None"
+#   location: "Coming Soon"
+
+# - presenter: Guodong Tan
+#   date: 2024/01/05, 4:00pm
+#   paper: "None"
+#   url: "None"
+#   pdf: "None"
+#   authors: "None"
+#   location: "Coming Soon"
+
 - presenter: Ruihui Li
-  date: 2023/12/22, 4:00pm
-  paper: "None"
+  date: 2023/12/29, 4:00pm
+  paper: "Multisensory learning binds neurons into a cross-modal memory engram"
   url: "None"
   pdf: "None"
-  authors: "None"
+  authors: "Zeynep Okray"
   location: "Coming Soon"
 
 - presenter: Daguang Li
   date: 2023/12/22, 4:00pm
-  paper: "None"
-  url: "None"
+  paper: "Accurate Path Integration in Continuous Attractor Network Models of Grid Cells"
+  url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000291"
   pdf: "None"
-  authors: "None"
+  authors: "Yoram Burak"
   location: "Coming Soon"
 
 - presenter: Ping Wang
