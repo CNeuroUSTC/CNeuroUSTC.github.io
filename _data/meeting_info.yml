@@ -25,9 +25,9 @@
 - presenter: Ruihui Li
   date: 2023/12/29, 4:00pm
   paper: "Multisensory learning binds neurons into a cross-modal memory engram"
-  url: "None"
+  url: "https://www.nature.com/articles/s41586-023-06013-8"
   pdf: "None"
-  authors: "Zeynep Okray"
+  authors: "Zeynep Okray et al."
   location: "Coming Soon"
 
 - presenter: Daguang Li
@@ -35,7 +35,7 @@
   paper: "Accurate Path Integration in Continuous Attractor Network Models of Grid Cells"
   url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000291"
   pdf: "None"
-  authors: "Yoram Burak"
+  authors: "Yoram Burak et al."
   location: "Coming Soon"
 
 - presenter: Ping Wang
