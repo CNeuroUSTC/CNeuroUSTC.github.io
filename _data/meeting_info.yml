@@ -1,26 +1,26 @@
-# - presenter: Yixuan Li
-#   date: 2024/01/19, 4:00pm
-#   paper: "None"
-#   url: "None"
-#   pdf: "None"
-#   authors: "None"
-#   location: "Coming Soon"
+- presenter: Yixuan Li
+  date: 2024/01/19, 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "Coming Soon"
 
-# - presenter: Yukun Cheng
-#   date: 2024/01/12, 4:00pm
-#   paper: "None"
-#   url: "None"
-#   pdf: "None"
-#   authors: "None"
-#   location: "Coming Soon"
+- presenter: Yukun Cheng
+  date: 2024/01/12, 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "Coming Soon"
 
-# - presenter: Guodong Tan
-#   date: 2024/01/05, 4:00pm
-#   paper: "None"
-#   url: "None"
-#   pdf: "None"
-#   authors: "None"
-#   location: "Coming Soon"
+- presenter: Guodong Tan
+  date: 2024/01/05, 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "Coming Soon"
 
 - presenter: Ruihui Li
   date: 2023/12/29, 4:00pm
@@ -28,7 +28,7 @@
   url: "https://www.nature.com/articles/s41586-023-06013-8"
   pdf: "None"
   authors: "Zeynep Okray et al."
-  location: "Coming Soon"
+  location: "3A107"
 
 - presenter: Daguang Li
   date: 2023/12/22, 4:00pm
@@ -36,7 +36,7 @@
   url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000291"
   pdf: "None"
   authors: "Yoram Burak et al."
-  location: "Coming Soon"
+  location: "531"
 
 - presenter: Ping Wang
   date: 2023/12/15, 4:00pm
