@@ -1,12 +1,12 @@
-# - presenter: Yixuan Li
-#   date: 2024/01/19, 4:00pm
-#   paper: "None"
-#   url: "None"
-#   pdf: "None"
-#   authors: "None"
-#   location: "Coming Soon"
-
 - presenter: Yukun Cheng
+  date: 2024/01/19, 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "Coming Soon"
+
+- presenter: Yixuan Li
   date: 2024/01/12, 4:00pm
   paper: "None"
   url: "None"
@@ -16,11 +16,11 @@
 
 - presenter: Guodong Tan
   date: 2024/01/05, 4:00pm
-  paper: "None"
-  url: "None"
+  paper: "Geometry of sequence working memory in macaque prefrontal cortex"
+  url: "https://www.science.org/doi/10.1126/science.abm0204"
   pdf: "None"
-  authors: "None"
-  location: "Coming Soon"
+  authors: "YANG XIE et al."
+  location: "329A"
 
 - presenter: Ruihui Li
   date: 2023/12/29, 4:00pm
