@@ -1,5 +1,5 @@
 - presenter: Qionglin Yu
-  date: 2024/01/26, 4:00pm, Theory JC
+  date: 2024/01/26, 4:00pm
   paper: "Neural dynamics underlying associative learning in the dorsal and ventral hippocampus"
   url: "https://www.nature.com/articles/s41593-023-01296-6"
   pdf: "None"
@@ -119,7 +119,7 @@
   location: "None"
 
 - presenter: Yukun Cheng
-  date: 2023/10/20, 4:00pm
+  date: 2023/10/20, 4:00pm, Theory JC
   paper: "Improving animal behaviors through a neural interface with deep reinforcement learning"
   url: "https://www.biorxiv.org/content/10.1101/2022.09.19.508590v2"
   pdf: "None"
@@ -1238,7 +1238,7 @@
   authors: "None"
   location: "329A"
 
-- presenter: Jing huo
+- presenter: Jing Huo
   date: 2021/9/24, 4:00pm
   paper: "Natural sensory context drives diverse brain-wide activity during C. elegans mating"
   url: "https://www.sciencedirect.com/science/article/abs/pii/S0092867421009983"
