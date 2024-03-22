@@ -1,3 +1,51 @@
+- presenter: Tianqi Xu
+  date: 2024/03/22, 4:00pm
+  paper: "Structured Odorant Response Patterns across a Complete Olfactory Receptor Neuron Population"
+  url: "https://pubmed.ncbi.nlm.nih.gov/30683545/"
+  pdf: "None"
+  authors: "Guangwei Si et al."
+  location: "329B"
+
+- presenter: Yixuan Li
+  date: 2024/03/21, 7:00pm, Theory JC
+  paper: "The Neuron as a Direct Data-Driven Controller"
+  url: "https://arxiv.org/abs/2401.01489"
+  pdf: "None"
+  authors: "Jason Moore et al."
+  location: "208"
+
+- presenter: Yi Wang
+  date: 2024/03/15, 4:00pm
+  paper: "Neural timescales reflect behavioral demands in freely moving rhesus macaques"
+  url: "https://www.nature.com/articles/s41467-024-46488-1"
+  pdf: "None"
+  authors: "Ana M. G. Manea et al."
+  location: "329A"
+
+- presenter: Yixuan Li
+  date: 2024/03/11, 7:00pm, Theory JC
+  paper: "The Neuron as a Direct Data-Driven Controller"
+  url: "https://arxiv.org/abs/2401.01489"
+  pdf: "None"
+  authors: "Jason Moore et al."
+  location: "208"
+
+- presenter: Jiaqi Wang
+  date: 2024/03/08, 4:00pm
+  paper: "Neuronal sensorimotor integration guiding salt concentration navigation in Caenorhabditis elegans"
+  url: "https://www.pnas.org/doi/full/10.1073/pnas.2310735121#con3"
+  pdf: "None"
+  authors: "Ayaka Matsumoto et al."
+  location: "Medical Building, 218"
+
+# - presenter: Chen Zheng
+#   date: 2024/03/01, 4:00pm
+#   paper: 
+#   url: 
+#   pdf: "None"
+#   authors: 
+#   location: "Medical Building, 218"
+
 - presenter: Qionglin Yu
   date: 2024/01/26, 4:00pm
   paper: "Neural dynamics underlying associative learning in the dorsal and ventral hippocampus"
