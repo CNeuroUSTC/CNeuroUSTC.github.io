@@ -38,13 +38,13 @@
   authors: "Ayaka Matsumoto et al."
   location: "Medical Building, 218"
 
-# - presenter: Chen Zheng
-#   date: 2024/03/01, 4:00pm
-#   paper: 
-#   url: 
-#   pdf: "None"
-#   authors: 
-#   location: "Medical Building, 218"
+- presenter: Chen Zheng
+  date: 2024/03/01, 4:00pm
+  paper: "Ultrasound-Induced Cascade Amplification in a Mechanoluminescent Nanotransducer for Enhanced Sono-Optogenetic Deep Brain"
+  url: "https://pubs.acs.org/doi/10.1021/acsnano.3c06577"
+  pdf: "None"
+  authors: "Wenliang Wang et al."
+  location: "Medical Building, 218"
 
 - presenter: Qionglin Yu
   date: 2024/01/26, 4:00pm
