@@ -1,10 +1,18 @@
-# - presenter: None
-#   date: 2024/04/05, 4:00pm
-#   paper: "None, because of the Qingming Festival"
-#   url: "None"
-#   pdf: "None"
-#   authors: "None"
-#   location: "None"
+- presenter: Yixuan Li
+  date: 2024/04/08, 4:00pm
+  paper: "The Neuron as a Direct Data-Driven Controller"
+  url: "https://arxiv.org/abs/2401.01489"
+  pdf: "None"
+  authors: "Jason Moore et al."
+  location: "208"
+
+- presenter: None
+  date: 2024/04/05, 4:00pm
+  paper: "None, because of the Qingming Festival"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "None"
 
 - presenter: Yuming Chai
   date: 2024/03/29, 4:00pm
