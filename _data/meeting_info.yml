@@ -1,9 +1,17 @@
-- presenter: Yixuan Li
-  date: 2024/04/08, 4:00pm
-  paper: "The Neuron as a Direct Data-Driven Controller"
-  url: "https://arxiv.org/abs/2401.01489"
+- presenter: Kexin Qi
+  date: 2024/04/12, 4:00pm
+  paper: "Temporally multiplexed imaging of dynamic signaling networks in living cells"
+  url: "https://www.cell.com/cell/pdf/S0092-8674(23)01227-8.pdf"
   pdf: "None"
-  authors: "Jason Moore et al."
+  authors: "Yong Qian et al."
+  location: "329B"
+
+- presenter: Yixuan Li
+  date: 2024/04/10, 7:00pm, Theory JC
+  paper: "Neuronal temporal filters as normal mode extractors"
+  url: "https://link.aps.org/doi/10.1103/PhysRevResearch.6.013111"
+  pdf: "None"
+  authors: "Siavash Golkar et al."
   location: "208"
 
 - presenter: None
