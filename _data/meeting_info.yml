@@ -1,3 +1,19 @@
+- presenter: Qi Liu
+  date: 2024/04/19, 4:00pm
+  paper: "Coordinated electrical and chemical signaling between two neurons orchestrates switching of motor states"
+  url: "https://www.biorxiv.org/content/10.1101/2023.01.04.522780v2.abstract"
+  pdf: "https://www.biorxiv.org/content/10.1101/2023.01.04.522780v2.full.pdf"
+  authors: "Maximilian Bach et al."
+  location: "3A103"
+
+- presenter: Lixian Zhang
+  date: 2024/04/18, 7:00pm, Theory JC
+  paper: "Chapter 1 and 2 of the book 'Reinformcement Learning: An Introduction' by Richard S. Sutton and Andrew G. Barto"
+  url: "None"
+  pdf: "None"
+  authors: "Sutton and Barto"
+  location: "208"
+
 - presenter: Kexin Qi
   date: 2024/04/12, 4:00pm
   paper: "Temporally multiplexed imaging of dynamic signaling networks in living cells"
