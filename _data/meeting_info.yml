@@ -1,3 +1,51 @@
+# - presenter: None
+#   date: 2024/05/31, 4:00pm
+#   paper: "None"
+#   url: "None"
+#   pdf: "None"
+#   authors: "None"
+#   location: "None"
+
+# - presenter: None
+#   date: 2024/05/24, 4:00pm
+#   paper: "None"
+#   url: "None"
+#   pdf: "None"
+#   authors: "None"
+#   location: "None"
+
+# - presenter: None
+#   date: 2024/05/17, 4:00pm
+#   paper: "None"
+#   url: "None"
+#   pdf: "None"
+#   authors: "None"
+#   location: "None"
+
+# - presenter: None
+#   date: 2024/05/10, 4:00pm
+#   paper: "None"
+#   url: "None"
+#   pdf: "None"
+#   authors: "None"
+#   location: "None"
+
+# - presenter: None
+#   date: 2024/05/03, 4:00pm
+#   paper: "None"
+#   url: "None"
+#   pdf: "None"
+#   authors: "None"
+#   location: "None"
+
+- presenter: Yukun Cheng, Guodong Tan, Qionglin Yu
+  date: 2024/04/26, 4:00pm
+  paper: "Rehearsal"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "None"
+
 - presenter: Qi Liu
   date: 2024/04/19, 4:00pm
   paper: "Coordinated electrical and chemical signaling between two neurons orchestrates switching of motor states"
