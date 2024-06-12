@@ -1,3 +1,11 @@
+- presenter: Runhui Li
+  date: 2024/06/07 4:00pm
+  paper: "Volatile working memory representations crystallize with practice"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "None"
+
 # - presenter: None
 #   date: 2024/05/31, 4:00pm
 #   paper: "None"
@@ -56,10 +64,10 @@
 
 - presenter: Lixian Zhang
   date: 2024/04/18, 7:00pm, Theory JC
-  paper: "Chapter 1 and 2 of the book 'Reinformcement Learning: An Introduction' by Richard S. Sutton and Andrew G. Barto"
+  paper: "Chapter 1 and 2 of 'Reinformcement Learning: An Introduction'"
   url: "None"
   pdf: "None"
-  authors: "Sutton and Barto"
+  authors: "Richard S. Sutton and Andrew G. Barto"
   location: "208"
 
 - presenter: Kexin Qi
