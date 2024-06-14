@@ -1,34 +1,42 @@
+- presenter: Guodong Tan
+  date: 2024/06/14 4:00pm
+  paper: "Dopamine-independent effect of rewards on choices through hidden-state inference"
+  url: "None"
+  pdf: "None"
+  authors: "Marta Blanco-Pozo et al."
+  location: "329A"
+
 - presenter: Runhui Li
   date: 2024/06/07 4:00pm
   paper: "Volatile working memory representations crystallize with practice"
   url: "None"
   pdf: "None"
-  authors: "None"
-  location: "None"
+  authors: "Arash Bellafard et al."
+  location: "329B"
 
-# - presenter: None
-#   date: 2024/05/31, 4:00pm
-#   paper: "None"
-#   url: "None"
-#   pdf: "None"
-#   authors: "None"
-#   location: "None"
+- presenter: Daguang Li
+  date: 2024/05/31, 4:00pm
+  paper: "Converting an allocentric goal into an egocentric steering signal"
+  url: "None"
+  pdf: "None"
+  authors: "Peter Mussells Pires et al."
+  location: "429"
 
-# - presenter: None
-#   date: 2024/05/24, 4:00pm
-#   paper: "None"
-#   url: "None"
-#   pdf: "None"
-#   authors: "None"
-#   location: "None"
+- presenter: Zezhen Wang
+  date: 2024/05/24, 4:00pm
+  paper: "Neural dynamics underlying birdsong practice and performance"
+  url: "None"
+  pdf: "None"
+  authors: "Jonnathan Singh Alvarado et al."
+  location: "3A209"
 
-# - presenter: None
-#   date: 2024/05/17, 4:00pm
-#   paper: "None"
-#   url: "None"
-#   pdf: "None"
-#   authors: "None"
-#   location: "None"
+- presenter: Yuxiang Wu
+  date: 2024/05/17, 4:00pm
+  paper: "Learnable latent embeddings for joint behavioural and neural analysis"
+  url: "None"
+  pdf: "None"
+  authors: "Steffen Schneider et al."
+  location: "3A103"
 
 - presenter: None
   date: 2024/05/10, 4:00pm
