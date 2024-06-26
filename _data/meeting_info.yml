@@ -1,3 +1,27 @@
+- presenter: None
+  date: 2024/06/28 4:00pm
+  paper: "None"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "None"
+
+- presenter: Yukun Cheng
+  date: 2024/06/21 4:00pm
+  paper: "Dual credit assignment processes underlie dopamine signals in a complex spatial environment"
+  url: "None"
+  pdf: "None"
+  authors: "Timothy A. Krausz et al."
+  location: "3A110"
+
+- presenter: Yixuan Li
+  date: 2024/06/19 4:00pm
+  paper: "Rehearsal"
+  url: "None"
+  pdf: "None"
+  authors: "None"
+  location: "3A209"
+
 - presenter: Guodong Tan
   date: 2024/06/14 4:00pm
   paper: "Dopamine-independent effect of rewards on choices through hidden-state inference"
