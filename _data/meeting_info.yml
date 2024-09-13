@@ -1,3 +1,11 @@
+- presenter: Tianqi Xu
+  date: 2024/09/13 4:00pm
+  paper: "Population coding of strategic variables during foraging in freely moving macaques"
+  url: "https://www.nature.com/articles/s41593-024-01575-w"
+  pdf: "None"
+  authors: "Neda Shahidi et al."
+  location: "329A"
+
 - presenter: Yi Wang
   date: 2024/09/06 4:00pm
   paper: "Prediction-error signals in anterior cingulate cortex drive task-switching"
@@ -49,7 +57,7 @@
 - presenter: Yukun Cheng
   date: 2024/06/21 4:00pm
   paper: "Dual credit assignment processes underlie dopamine signals in a complex spatial environment"
-  url: "None"
+  url: "https://www.sciencedirect.com/science/article/pii/S0896627323005500"
   pdf: "None"
   authors: "Timothy A. Krausz et al."
   location: "3A110"
@@ -65,7 +73,7 @@
 - presenter: Guodong Tan
   date: 2024/06/14 4:00pm
   paper: "Dopamine-independent effect of rewards on choices through hidden-state inference"
-  url: "None"
+  url: "https://www.nature.com/articles/s41593-023-01542-x"
   pdf: "None"
   authors: "Marta Blanco-Pozo et al."
   location: "329A"
@@ -73,7 +81,7 @@
 - presenter: Runhui Li
   date: 2024/06/07 4:00pm
   paper: "Volatile working memory representations crystallize with practice"
-  url: "None"
+  url: "https://www.nature.com/articles/s41586-024-07425-w"
   pdf: "None"
   authors: "Arash Bellafard et al."
   location: "329B"
@@ -81,7 +89,7 @@
 - presenter: Daguang Li
   date: 2024/05/31, 4:00pm
   paper: "Converting an allocentric goal into an egocentric steering signal"
-  url: "None"
+  url: "https://www.nature.com/articles/s41586-023-07006-3"
   pdf: "None"
   authors: "Peter Mussells Pires et al."
   location: "429"
@@ -89,7 +97,7 @@
 - presenter: Zezhen Wang
   date: 2024/05/24, 4:00pm
   paper: "Neural dynamics underlying birdsong practice and performance"
-  url: "None"
+  url: "https://www.nature.com/articles/s41586-021-04004-1"
   pdf: "None"
   authors: "Jonnathan Singh Alvarado et al."
   location: "3A209"
@@ -97,7 +105,7 @@
 - presenter: Yuxiang Wu
   date: 2024/05/17, 4:00pm
   paper: "Learnable latent embeddings for joint behavioural and neural analysis"
-  url: "None"
+  url: "https://www.nature.com/articles/s41586-023-06031-6"
   pdf: "None"
   authors: "Steffen Schneider et al."
   location: "3A103"
