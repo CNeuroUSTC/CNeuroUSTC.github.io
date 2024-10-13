@@ -1,3 +1,27 @@
+- presenter: Kexin Qi
+  date: 2024/10/18 4:00pm
+  paper: "The mechanism for directional hearing in fish"
+  url: "https://www.nature.com/articles/s41586-024-07507-9"
+  pdf: "None"
+  authors: "Johannes Veith et al."
+  location: "Coming Soon"
+
+- presenter: Qi Liu
+  date: 2024/10/11 4:00pm
+  paper: "Learning-dependent navigation strategies and neural computations in Caenorhabditis elegans"
+  url: "https://arxiv.org/html/2311.07117v2"
+  pdf: "None"
+  authors: "Kevin Chen et al."
+  location: "3A103"
+
+- presenter: Yuming Chai
+  date: 2024/09/20 4:00pm
+  paper: "Brain-wide dynamics linking sensation to action during decision-making"
+  url: "https://www.nature.com/articles/s41586-024-07908-w"
+  pdf: "None"
+  authors: "Andrei Khilkevich et al."
+  location: "329A"
+
 - presenter: Tianqi Xu
   date: 2024/09/13 4:00pm
   paper: "Population coding of strategic variables during foraging in freely moving macaques"
