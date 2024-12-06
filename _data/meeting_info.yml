@@ -1,3 +1,11 @@
+- presenter: Yukun Cheng
+  date: 2024/12/06 4:00pm
+  paper: "Flexible integration of continuous sensory evidence in perceptual estimation tasks"
+  url: "https://www.pnas.org/doi/10.1073/pnas.2214441119"
+  pdf: "None"
+  authors: "Jose M. Esnaola-Acebes et al."
+  location: "329A"
+
 - presenter: Guodong Tan
   date: 2024/11/29 4:00pm
   paper: "A combinatorial neural code for long-term motor memory"
@@ -30,13 +38,6 @@
   authors: "None"
   location: "329A"
 
-- presenter: Guodong Tan, Yixuan Li
-  date: 2024/11/01 4:00pm
-  paper: "Work Report"
-  url: "None"
-  pdf: "None"
-  authors: "None"
-  location: "329B"
 
 - presenter: Yuxiang Wu,  Daguang Li
   date: 2024/10/25 3:00pm
