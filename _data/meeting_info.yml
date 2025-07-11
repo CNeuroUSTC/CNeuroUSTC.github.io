@@ -1,3 +1,11 @@
+- presenter: Jiaqi Wang
+  date: 2025/07/11 4:00pm
+  paper: "Distributional Reinforcement Learning in the Brain."
+  url: "https://www.sciencedirect.com/science/article/pii/S0166223620301983"
+  pdf: "None"
+  authors: "Adam S. Lowet et al."
+  location: "329A"
+
 - presenter: Chen Zheng
   date: 2025/07/04 4:00pm
   paper: "Zebrafish capable of generating future state prediction error show improved active avoidance behavior in virtual reality."
