@@ -1,3 +1,19 @@
+- presenter: Bozhou Hu
+  date: 2025/10/31 4:00pm
+  paper: "Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks."
+  url: "https://www.nature.com/articles/s41467-021-23103-1"
+  pdf: "None"
+  authors: "Abdulkadir Canatar"
+  location: "531"
+
+- presenter: Bozhou Hu
+  date: 2025/10/24 4:00pm
+  paper: "Reconciling modern machine learning practice and the bias-variance trade-off."
+  url: "https://www.pnas.org/doi/10.1073/pnas.1903070116"
+  pdf: "None"
+  authors: "Mikhail Belkin"
+  location: "329B"
+
 - presenter: Junjie Han
   date: 2025/10/17 4:00pm
   paper: "A zebrafish circuit for behavioral credit assignment."
