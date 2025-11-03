@@ -1,4 +1,12 @@
-- presenter: Bozhou Hu
+- presenter: Qilin Zhang
+  date: 2025/11/05 4:00pm
+  paper: "Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks."
+  url: "https://www.nature.com/articles/s41467-021-23103-1"
+  pdf: "None"
+  authors: "Abdulkadir Canatar"
+  location: "Medical Building, 712"
+
+- presenter: Qilin Zhang
   date: 2025/10/31 4:00pm
   paper: "Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks."
   url: "https://www.nature.com/articles/s41467-021-23103-1"
