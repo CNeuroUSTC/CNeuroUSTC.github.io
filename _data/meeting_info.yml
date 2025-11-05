@@ -1,3 +1,11 @@
+- presenter: Tianqi Xu
+  date: 2025/11/07 4:00pm
+  paper: "Spontaneous behaviors drive multidimensional, brainwide activity."
+  url: "https://www.science.org/doi/10.1126/science.aav7893"
+  pdf: "None"
+  authors: "Carsen Stringer"
+  location: "329A"
+
 - presenter: Qilin Zhang
   date: 2025/11/05 4:00pm
   paper: "Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks."
