@@ -1,9 +1,25 @@
+- presenter: Chen Zheng
+  date: 2026/01/23 1:00pm
+  paper: "Adult zebrafish can learn Morris water maze-like tasks in a two-dimensional virtual reality system."
+  url: "https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00241-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2667237524002418%3Fshowall%3Dtrue"
+  pdf: "None"
+  authors: "Tanvir Islam et al."
+  location: "329A"
+
+- presenter: Yukun Cheng
+  date: 2026/01/23 1:00pm
+  paper: "Experimentally testable whole brain manifolds that recapitulate behavior."
+  url: "https://arxiv.org/abs/2106.10627"
+  pdf: "None"
+  authors: "Gerald M Pao et al."
+  location: "329B"
+
 - presenter: Guodong Tan
   date: 2026/01/16 1:00pm
   paper: "Heat Perception and temperature learning in larval zebrafish."
-  url: "hhttps://files01.core.ac.uk/download/pdf/28943973.pdf"
+  url: "https://files01.core.ac.uk/download/pdf/28943973.pdf"
   pdf: "None"
-  authors: "Jennifer Mengbo Li"
+  authors: "Jennifer Mengbo Li et al."
   location: "429"
 
 - presenter: Runhui Li
@@ -11,7 +27,7 @@
   paper: "Uncovering multiscale structure in the variability of larval zebrafish navigation."
   url: "https://www.nature.com/articles/s41586-025-09758-6"
   pdf: "None"
-  authors: "Arseny Finkelstein"
+  authors: "Arseny Finkelstein et al."
   location: "329B"
 
 - presenter: Daguang Li
@@ -19,7 +35,7 @@
   paper: "Uncovering multiscale structure in the variability of larval zebrafish navigation."
   url: "https://www.pnas.org/doi/10.1073/pnas.2410254121"
   pdf: "None"
-  authors: "Gautam Sridhar"
+  authors: "Gautam Sridhar et al."
   location: "631"
 
 - presenter: Yuxiang Wu
