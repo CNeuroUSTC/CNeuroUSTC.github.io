@@ -1,3 +1,19 @@
+- presenter: Qilin Zhang
+  date: 2026/06/12 4:00pm
+  paper: "Understanding Dual Process Cognition via the Minimum Description Length Principle."
+  url: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012383"
+  pdf: "None"
+  authors: "Ted Moskovitz et al."
+  location: "329B"
+
+- presenter: Bozhou Hu
+  date: 2026/06/05 4:00pm
+  paper: "Reinforcement Learning: Model-free, SR and World Models."
+  url: ""
+  pdf: "None"
+  authors: "Samuel J Gershman et al."
+  location: "329A"
+
 - presenter: Junjie Han
   date: 2026/05/29 4:00pm
   paper: "Subspace communication in the hippocampal–retrosplenial axis."
