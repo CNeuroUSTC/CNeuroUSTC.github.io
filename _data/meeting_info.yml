@@ -1,3 +1,35 @@
+- presenter: Xing Chen
+  date: 2026/11/06 4:00pm
+  paper: "Discovering cognitive strategies with tiny recurrent neural networks."
+  url: "https://www.nature.com/articles/s41586-025-09142-4"
+  pdf: "None"
+  authors: "Li Ji-An et al."
+  location: "329A"
+
+- presenter: Jingyang Wan
+  date: 2026/10/30 4:00pm
+  paper: "Targeted stimulation of motor cortex ensembles drives learned movements."
+  url: "https://www.nature.com/articles/s41586-026-11174-3"
+  pdf: "None"
+  authors: "Qiyu Chen et al."
+  location: "329A"
+
+- presenter: Zhenyu Zhou
+  date: 2026/10/23 4:00pm
+  paper: "A thalamus–brainstem attractor network drives history-biased decisions."
+  url: "https://www.nature.com/articles/s41586-026-10623-3"
+  pdf: "None"
+  authors: "Shan Zhao et al."
+  location: "329A"
+
+- presenter: Jinghao Wang
+  date: 2026/10/16 4:00pm
+  paper: "Propagation of activity through the cortical hierarchy and perception are determined by neural variability."
+  url: "https://www.nature.com/articles/s41593-023-01413-5"
+  pdf: "None"
+  authors: "James M. Rowland et al."
+  location: "329A"
+
 - presenter: Jiaqi Wang
   date: 2026/09/18 4:00pm
   paper: "Spontaneous behavior is a succession of self directed tasks."
